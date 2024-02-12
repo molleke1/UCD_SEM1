@@ -1,9 +1,9 @@
 # Projecttitel
 *Omschrijving van je concept in 1 zin* 
 
-*Projectteam: Naam 1; Naam 2*
+*Projectteam: Daan Mol, Cédric Wattyn*
 
-Datum
+*12 februari 2024*
 
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
