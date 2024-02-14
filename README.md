@@ -1,5 +1,5 @@
 # Projecttitel
-*Omschrijving van je concept in 1 zin* 
+*Het inzetten van schokdetectie om beginnende/ervaren lopers beter te informeren over hoe ze moeten lopen.* 
 
 *Projectteam: Daan Mol, Cédric Wattyn*
 
