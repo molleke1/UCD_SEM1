@@ -115,13 +115,13 @@ Nadat we ons idee hadden vastgesteld hebben we een kritische zelfreflectie gedaa
 
 ## Discovery
 ### Doestellingen
-1. Het onderzoeken van onze doelgroep 
+<b>1. Het onderzoeken van onze doelgroep</b><br>
 Hierbij gingen we voornamelijk op zoek naar wie loopt er allemaal en welke eigenschappen hebben de verschillende lopers doelgroepen. Waarom lopen deze mensen, wat is hun drijfveer? 
  
-2. Het onderzoeken van het “probleem” 
+<b>2. Het onderzoeken van het “probleem” </b><br>
 Hier onderzochten/researchen we wat de gevolgen waren van slecht lopen. Welke blessures waren er allemaal mogelijk en hoe erg waren de blessures. Maar ook hoe de loper reageert op blessures, gaat hij naar de dokter/kinesist? Of blijft hij doorlopen? Wat motiveert de loper uiteindelijk om toch naar de dokter te gaan? Hoelang duurt dit? ... 
  
-3. Het onderzoeken van bestaande producten 
+<b>3. Het onderzoeken van bestaande producten </b> <br>
 Wat is er allemaal al op de markt en is er ruimte om dit te verbeteren? Maar ook welke gadgets zijn er allemaal op de markt en kunnen we deze eventueel implementeren in ons product?  
 
 ### Materiaal & methoden
