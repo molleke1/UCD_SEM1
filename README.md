@@ -142,21 +142,17 @@ lopers tussen de 25 en 55 jaar waarbij sprinters en lopers met “kwaaltjes”, 
 ![image](https://github.com/molleke1/UCD_SEM1/assets/154930366/2b62c2f8-e312-4f16-8400-1fc34e879d12)
 <br>
 - de klanteneisen en klantenwensen<br>
-Onze klanteneisen hebben we dan weer gedefinieerd op vlak van onze research, maar voornamelijk onze interviews. Hierbij hebben we dan volgende grenzen gedefinieerd: 
-- blessures zo veel mogelijk voorkomen 
-- correcte feedback geven die duidelijk is 
-- makkelijk om aan en af te doen 
-- kan in de wasmachine 
-- comfortabel 
-Hierbij kunnen we dan ook nog de klantenwensen definiëren waarmee de gebruiker zeer content zou zijn, maar niet noodzakelijk is. 
-- recyclebaar 
-- meerdere functies 
-- goedkoop 
-
-
-
-
-
+Onze klanteneisen hebben we dan weer gedefinieerd op vlak van onze research, maar voornamelijk onze interviews. Hierbij hebben we dan volgende grenzen gedefinieerd: <br>
+- blessures zo veel mogelijk voorkomen<br>
+- correcte feedback geven die duidelijk is<br> 
+- makkelijk om aan en af te doen<br>
+- kan in de wasmachine<br>
+- comfortabel<br>
+Hierbij kunnen we dan ook nog de klantenwensen definiëren waarmee de gebruiker zeer content zou zijn, maar niet noodzakelijk is.<br>
+- recyclebaar<br>
+- meerdere functies<br> 
+- goedkoop<br>
+<br>
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
