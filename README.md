@@ -145,15 +145,15 @@ lopers tussen de 25 en 55 jaar waarbij sprinters en lopers met “kwaaltjes”, 
 
 - de klanteneisen en klantenwensen<br>
 Onze klanteneisen hebben we dan weer gedefinieerd op vlak van onze research, maar voornamelijk onze interviews. Hierbij hebben we dan volgende grenzen gedefinieerd: <br>
-- blessures zo veel mogelijk voorkomen<br>
-- correcte feedback geven die duidelijk is<br> 
-- makkelijk om aan en af te doen<br>
-- kan in de wasmachine<br>
-- comfortabel<br>
+1. blessures zo veel mogelijk voorkomen<br>
+2. correcte feedback geven die duidelijk is<br> 
+3. makkelijk om aan en af te doen<br>
+4. kan in de wasmachine<br>
+5. comfortabel<br>
 Hierbij kunnen we dan ook nog de klantenwensen definiëren waarmee de gebruiker zeer content zou zijn, maar niet noodzakelijk is.<br>
-- recyclebaar<br>
-- meerdere functies<br> 
-- goedkoop<br>
+6. recyclebaar<br>
+7. meerdere functies<br> 
+8. goedkoop<br>
 <br>
 ### Conclusies & implicaties
 Bij onze doelgroep betrekken we het liefst zoveel mogelijk mensen. We spreken dan over zwaarlijvige mensen, dunnen mensen, mensen die lopen voor plezier, mensen die lopen voor conditie, mensen die lange afstand lopen etc. Toch zijn we ook genoodzaakt mensen “uit te sluiten”. Dat zijn mensen die sprinten (heeft geen nut aangezien de schokken toch te groot gaan zijn op die 100-400 meter dat ze lopen) jongvolwassen (hierbij verandert het lichaam nog te veel waardoor de resultaten niet goed kunnen worden geïnterpreteerd) oude mensen (deze mensen hebben vaak meer zaken waar rekening mee moet worden gehouden naast alleen schokken op de benen waardoor onze feedback onvoldoende en onjuist zou zijn).<br>
