@@ -155,6 +155,7 @@ Hierbij kunnen we dan ook nog de klantenwensen definiëren waarmee de gebruiker 
 7. meerdere functies<br> 
 8. goedkoop<br>
 <br>
+
 ### Conclusies & implicaties <br>
 Bij onze doelgroep betrekken we het liefst zoveel mogelijk mensen. We spreken dan over zwaarlijvige mensen, dunnen mensen, mensen die lopen voor plezier, mensen die lopen voor conditie, mensen die lange afstand lopen etc. Toch zijn we ook genoodzaakt mensen “uit te sluiten”. Dat zijn mensen die sprinten (heeft geen nut aangezien de schokken toch te groot gaan zijn op die 100-400 meter dat ze lopen) jongvolwassen (hierbij verandert het lichaam nog te veel waardoor de resultaten niet goed kunnen worden geïnterpreteerd) oude mensen (deze mensen hebben vaak meer zaken waar rekening mee moet worden gehouden naast alleen schokken op de benen waardoor onze feedback onvoldoende en onjuist zou zijn).<br>
 Een belangrijke conclusie ook is dat mensen bitter weinig opzoeken over lopen en het zo dus ook zeer moeilijk is om met de loper te communiceren.  
