@@ -42,7 +42,8 @@ Hierbij hebben we dan verschillende interviews gedaan om onze bevindingen van st
 <b>Fase 2</b> </br>
 <ins>Stap 1:</ins> </br>
 Het opstellen van ons persona en zo ook onze doelgroep vaststellen. Hierbij gaan we voor lopers tussen de 25 en 55 jaar en worden sprinters en lopers met “kwaaltjes”, zoals O-benen of X-benen of ... vermeden omdat het voor sprinters gewoon geen nut heeft en voor lopers met kwaaltjes zouden we foute info kunnen meegeven en zo juist blessures veroorzaken. 
-![image](https://github.com/molleke1/UCD_SEM1/assets/154930366/1a3e0942-b4f1-4b96-a4c7-dc5d79f56a18)
+![image](https://github.com/molleke1/UCD_SEM1/assets/157485350/1b938f2e-cf4e-45e9-b6b4-bf6c1eeffb80)
+
 
  
 
@@ -131,10 +132,16 @@ Ook hebben we aan benchmarking gedaan en bestaande producten vergeleken met elka
 
 ### Resultaten
 De resultaten van onze discovery fase was:
-- het besluit van onze doelgroep
+- het besluit van onze doelgroep <br>
 lopers tussen de 25 en 55 jaar waarbij sprinters en lopers met “kwaaltjes”, zoals O-benen of X-benen of ... vermeden worden <br>
 <b>persona</b><br>
-![image](https://github.com/molleke1/UCD_SEM1/assets/154930366/1a3e0942-b4f1-4b96-a4c7-dc5d79f56a18)
+![image](https://github.com/molleke1/UCD_SEM1/assets/157485350/f83b82a5-1264-4dd5-91aa-48467849f7e3)
+<br>
+- het besluit van onze interviews <br>
+
+
+
+
 
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
