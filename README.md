@@ -125,7 +125,10 @@ Hier onderzochten/researchen we wat de gevolgen waren van slecht lopen. Welke bl
 Wat is er allemaal al op de markt en is er ruimte om dit te verbeteren? Maar ook welke gadgets zijn er allemaal op de markt en kunnen we deze eventueel implementeren in ons product?  
 
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+In de eerste fase hebben we vooral zaken opgezocht op het internet en zo zoveel mogelijk feiten en info over het lopen verzameld. Deze hebben we dan ook steeds proberen te vinden op een tweede site om zo zeker te zijn van de juistheid van de verzamelde info. Hierbij hebben we site’s gebruikt die al een zeer grote database hebben aan valide info over lopen zoals ‘hardlopen.nl’, ‘runnersworld.com’, ‘healthline.com’, ... . Hier zijn we zeer veel te weten gekomen over welke blessures er allemaal bestaan en hoe deze kunnen worden vermeden of genezen. Ook wist Christine L. (2022) ons te vertellen waarom mensen precies lopen en wat de voordelen zijn van het lopen waarbij haar artikel gebaseerd was op verschillende studies. 
+Zaken die dan meer persoonlijk waren zoals wanneer ze naar de dokter gaan, welke gadgets ze gebruiken, ... konden we echter niet terugvinden op het internet. Deze info hebben we dan verzameld door onze interviews met de gebruiker.  
+Ook hebben we aan benchmarking gedaan en bestaande producten vergeleken met elkaar. Hierbij kwamen we zelf runeasi tegen, een bedrijf dat dezelfde sensor gebruikt met hetzelfde doeleinde, maar op de onderrug in plaats van op de enkel. 
+
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
