@@ -138,9 +138,11 @@ lopers tussen de 25 en 55 jaar waarbij sprinters en lopers met “kwaaltjes”, 
 <b>persona</b><br>
 ![image](https://github.com/molleke1/UCD_SEM1/assets/157485350/f83b82a5-1264-4dd5-91aa-48467849f7e3)
 <br>
+
 - het besluit van onze interviews <br>
 ![image](https://github.com/molleke1/UCD_SEM1/assets/154930366/2b62c2f8-e312-4f16-8400-1fc34e879d12)
 <br>
+
 - de klanteneisen en klantenwensen<br>
 Onze klanteneisen hebben we dan weer gedefinieerd op vlak van onze research, maar voornamelijk onze interviews. Hierbij hebben we dan volgende grenzen gedefinieerd: <br>
 - blessures zo veel mogelijk voorkomen<br>
