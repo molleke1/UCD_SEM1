@@ -156,37 +156,39 @@ Hierbij kunnen we dan ook nog de klantenwensen definiëren waarmee de gebruiker 
 8. goedkoop<br>
 <br>
 
-### Conclusies & implicaties <br>
+### Conclusies & implicaties
 Bij onze doelgroep betrekken we het liefst zoveel mogelijk mensen. We spreken dan over zwaarlijvige mensen, dunnen mensen, mensen die lopen voor plezier, mensen die lopen voor conditie, mensen die lange afstand lopen etc. Toch zijn we ook genoodzaakt mensen “uit te sluiten”. Dat zijn mensen die sprinten (heeft geen nut aangezien de schokken toch te groot gaan zijn op die 100-400 meter dat ze lopen) jongvolwassen (hierbij verandert het lichaam nog te veel waardoor de resultaten niet goed kunnen worden geïnterpreteerd) oude mensen (deze mensen hebben vaak meer zaken waar rekening mee moet worden gehouden naast alleen schokken op de benen waardoor onze feedback onvoldoende en onjuist zou zijn).<br>
 Een belangrijke conclusie ook is dat mensen bitter weinig opzoeken over lopen en het zo dus ook zeer moeilijk is om met de loper te communiceren.  
 Ook kunnen we concluderen dat die generatie/doelgroep zo veel mogelijk de dokter/kinesist vermijdt waardoor ons product een grote hulp kan zijn.
 
 ## Definition
-Max. 1000 woorden
+
 ### Doestellingen
-Wat wilde je bereiken?
+Ons ultieme doel in deze opdracht is het creëren van een conceptueel ontwerp. We willen aantonen dat we in staat zijn om op basis van gebruikerstesten de logica achter specifieke ontwerpbeslissingen te rechtvaardigen. Het is essentieel dat we ons concept analytisch kunnen ontleden in verschillende deelaspecten. Daarna moeten we deze aspecten vormgeven door middel van prototyping, testing en het opstellen van goed gedocumenteerde design requirements. <br>
+Als team willen we laten zien dat we bekwaam zijn in het presenteren van ons concept en dat we in staat zijn om de gemaakte ontwerpkeuzes te rechtvaardigen. Het vermogen om ons concept geloofwaardig te pitchen en de achterliggende redenering te communiceren is van cruciaal belang voor het succes van het ontwerpproces.
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+Een van de manieren waaruit we de meeste info haalden waren onze prototypes, door deze prototypes zelf te maken, testen en verbeteren hebben we veel geleerd over welke features allemaal belangrijk zijn. Ook had het geholpen om gebruikerstesten af te leggen, want deze gaven een ander zicht op onze oplossing en hielpen ons enorm om ons conceptueel ontwerp te verfijnen. Door deze testen af te leggen ging duidelijk worden  wat mensen belangrijk vinden, welke soort kousen ze dragen, of ze muziek luisteren of met een horloge lopen. Dit helpt dan weer om ons persona verder uit te breiden waarop we dan weer onze volgende stappen kunnen baseren. 
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+De uiteindelijke doelstelling is dat we een product ontwikkelen die eenvoudig te gebruiken is voor eender wie, en zo efficient mogelijk helpt om de looptstijl te verbeteren met behulp van real-time feedback. We trachten de <b>communicatie met de loper</b> zo duidelijk mogelijk te houden voor het beste effect. Dit wil zeggen dat we moeten  signaleren wanneer er een te grote schok gemeten wordt zodanig dat er direct een verandering kan komen. Uit de interviews merkten we dat de mensen die het product willen kopen ook ervoor open staan om eventueel een horloge of muziek te willen gebruiken om zo deze feedback te krijgen.
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+Uit het onderzoek van de define-fase hebben we besloten om een product te maken waarbij een sleeve gebruikt wordt, een soort kous die eventueel onder de normale kous kan worden gedragen. Waarin een “zakje” bevestigd is die groot genoeg is voor de sensor om in te rusten. Hierdoor is de bevestiging van de sensor op het scheenbeen goed en blijft deze heel stil zitten bij zware bewegingen tijdens het lopen. De manier van communicatie met de loper werkt als volgt: wanneer er een te hoge schok wordt gedetecteerd door de sensor zal er een signaal worden uitgestuurd naar de koptelefoon of sporthorloge. Dit zal een soort getik zijn in de koptelefoon of een lichtje in het horloge. Hoe sneller het lichtje of het getik, hoe slechter je techniek op dat moment; dan is het dus ook de bedoeling dat je stilaan je techniek veranderd met behulp van de tikjes of lichtjes. Als het minder snel wordt, dan weet je dat je de juiste richting uitgaat en je zo verder moet doen, moest het weer sneller worden dan weet je dat je weer iets fout doet. Als het getik/lichtje stopt. Dan heb je de ideale/juiste techniek terug aangenomen. Uiteraard is het dan voor jezelf belangrijk als loper dat je onthoud wat je juist veranderd hebt als het getik of lichtje trager wordt. Dan kan je rechtstreeks de link leggen met wat er verkeerd is met je looptechniek en dat onthouden voor de volgende keer.
 
 ## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+- sleeve material met anti-slip <br>
+- sensor <br>
+- extra kous <br>
+- lycra stof <br>
+- sporthorloge <br>
+- oortjes<br>
 
 ## Kritische reflectie
-Max. 500 woorden
+Uit ons onderzoek stelden we vast dat het moeilijk zou worden om een passend product te ontwerpen voor elk type loper op de markt. Hiervoor zouden we veel meer research moeten doen, een veel grotere variatie aan mensen moeten interviewen en tijdens de prototyping fase veel meer variaties moeten maken om rekening te houden met iedereen. Dit is natuurlijk niet altijd mogelijk, dus moesten we ons doelpubliek noodgedwongen reduceren tot wat het nu is. Doordat we geen gebruikerstesten hebben kunnen afleggen hebben we onze prototypes die we nu hebben niet kunnen valideren en hebben we dus geen feedback van onze doelgroep kunnen verzamelen. Dit zorgt ervoor dat we enkel onze eigen mening erover hebben, en dat we mogelijks de meest opvallende fouten over het hoofd gezien hebben. Dit dwingt ons om zelf zo breed mogelijk te denken om deze fouten toch te vermijden en dit is niet ideaal. Maar we hebben genoeg research gedaan op voorhand zodat we weten hoe deze markt er zowat uitziet en welke ideeën en producten we eventueel kunnen gebruiken. Het moelijkste van deze opdracht vinden we om de slechte loopstijl te communiceren met de loper zonder het met woorden te vertellen. Dit is de grootste uitdaging voor ons momenteel, want we willen het niet op de eenvoudigste manier direct doen, omdat er zeker en vast betere opties zijn die veel meer voordelen hebben voor zowel ons financieel als de loper’s prestatie.
 
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
+Victoris. (z.d.). Lower impact running. Geraadpleegd op 04 oktober 2023 van  
+https://www.victoris.be/projects/lower-impact-running/  <br>
+Runeasi. (z.d.). Science and technology. Geraadpleegd op 10 oktober 2023, van https://runeasi.ai/science-and-technology/  <br>
+Christine, L. (2022, 11 maart). 11 Reasons to Start Running. Verywell fit. https://www.verywellfit.com/reasons-to-start-running-4022450 <br>
 
 ## Bijlagen
+https://miro.com/welcomeonboard/MEl6eWZCdWthajU5dWdaNlVpcjk2N2N5UmdZQWZUdHBEM0hwZ1NkbGJ3Wmw0WUxSeFZ4enFsVE9YMmMzMkFOT3wzNDU4NzY0NTY2MTExMDQ5MTc4fDI=?share_link_id=579206606361  
