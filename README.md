@@ -35,7 +35,16 @@ Benchmarken. Producten opzoeken die hetzelfde probleem willen oplossen. Hierbij 
 
 <ins>Stap 3: </ins> </br>
 Hierbij hebben we dan verschillende interviews gedaan om onze bevindingen van stap 1 en 2 te staven en ook nog wat extra vragen te stellen in verband met welke afstand ze lopen hoe ze begonnen zijn met lopen, wat ze al gebruiken van gadgets, ...
-![image](https://github.com/molleke1/UCD_SEM1/assets/154930366/2b62c2f8-e312-4f16-8400-1fc34e879d12)
+Uit deze interviews hebben we volgende zaken geconcludeerd:
+<ul>
+   <li>de dokter kinesist wordt zoveel mogelijk vermeden</li>
+   <li>lopers houden van getalletjes zoals gemiddelde snelheid</li>
+   <li>lopers accosieren blessures steeds met overbelasting</li>
+   <li>lopers hebben de reflex om lang te stoppen met lopen (maandje) na een blessure</li>
+   <li>producten voor het lopen worden niet gekocht in het begin, maar pas eens er pijn tijdens het lopen wordt ervaren</li>
+   <li>lopers zoeken bitter weinig op over het lopen</li>
+   <li>Lopers weten dat loopschoenen zeer belangrijk zijn</li>
+</ul>
 
  
 
