@@ -193,6 +193,8 @@ Uit het onderzoek van de define-fase hebben we besloten om een product te maken 
 ## Kritische reflectie
 Uit ons onderzoek stelden we vast dat het moeilijk zou worden om een passend product te ontwerpen voor elk type loper op de markt. Hiervoor zouden we veel meer research moeten doen, een veel grotere variatie aan mensen moeten interviewen en tijdens de prototyping fase veel meer variaties moeten maken om rekening te houden met iedereen. Dit is natuurlijk niet altijd mogelijk, dus moesten we ons doelpubliek noodgedwongen reduceren tot wat het nu is. Doordat we geen gebruikerstesten hebben kunnen afleggen hebben we onze prototypes die we nu hebben niet kunnen valideren en hebben we dus geen feedback van onze doelgroep kunnen verzamelen. Dit zorgt ervoor dat we enkel onze eigen mening erover hebben, en dat we mogelijks de meest opvallende fouten over het hoofd gezien hebben. Dit dwingt ons om zelf zo breed mogelijk te denken om deze fouten toch te vermijden en dit is niet ideaal. Maar we hebben genoeg research gedaan op voorhand zodat we weten hoe deze markt er zowat uitziet en welke ideeën en producten we eventueel kunnen gebruiken. Het moelijkste van deze opdracht vinden we om de slechte loopstijl te communiceren met de loper zonder het met woorden te vertellen. Dit is de grootste uitdaging voor ons momenteel, want we willen het niet op de eenvoudigste manier direct doen, omdat er zeker en vast betere opties zijn die veel meer voordelen hebben voor zowel ons financieel als de loper’s prestatie.
 
+## Antropometrie en ergonomie
+
 ## Bronnen
 Victoris. (z.d.). Lower impact running. Geraadpleegd op 04 oktober 2023 van  
 https://www.victoris.be/projects/lower-impact-running/  <br>
