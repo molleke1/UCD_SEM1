@@ -212,9 +212,16 @@ De armband/horloge gebruiken we om de gebruiker mee te delen wat ze fout doen en
 </li>
 </ul>
 <br>
-Bij het opzoeken van de vernoemde waarden in antropometrische databases zoals (DINED, DINBELG, ANSUR 1, ...) hebben we niets gevonden van de waarden die we zochten. 
+Bij het opzoeken van de vernoemde waarden (a,b,c,d) in antropometrische databases zoals (DINED, DINBELG, ANSUR 1, ...) hebben we helemaal niets gevonden. Steeds was er info te vinden over zowel de handen als de voeten, maar nooit de info die wij zochten. Hierdoor zat er dan ook niets anders op dan zelf op onderzoek te gaan en onze eigen antropometrische waarden te gaan opstellen. 
+<ol>
+<li>
+<b>Omtrek van de enkel</b> <i>(a)</i><br>
+Deze maat hebben we deels zelf bepaald. Zo heeft het groepje van Emile en Tom namelijk van een groot deel van onze klas (waaronder wij zelf) de omtrek gemeten rond de enkel en dit dan doorgestuurd naar iedereen die werkt rond 'sport en tech'. Deze waarden waren echter allemaal van 20-25 jarigen. Aangezien onze doelgroep 20-60 jarigen zijn passen deze daar net in. Om te controleren of een oudere leeftijd nog veel verschil heeft op de omtrek van de enkel hebben we enkele 40-50 jarigen getest. Om dit te kunnen testen hebben we onze eigen flexibele meter gecreerd uit ductape aangezien geen van ons beide een thuis had liggen. Onze ondervindingen hierbij waren dat deze juiste dezelfde waarden hadden zoals de 20-25 jarigen en het leeftijdsverschil dus geen zo'n grote invloed had. Al deze waarden hebben we dan in excel geplaatst en het gemiddelde en de variantie van bepaald. <br>
+Natuurlijk zit er op deze waarde een zeer grote foutmarge. We hebben namelijk geen testen gedaan met zwaarlijvige mensen, zeer lange mensen, ... . Wel stuurt het ons in de juiste richting en proberen we het in rekening te houden door een wat grotere variatie aan te rekenen, van ... naar ... .
 
 
+</li>
+</ol>
 
 
 ## Bronnen
