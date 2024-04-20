@@ -201,7 +201,9 @@ Ons ontwerp bestaat uit een enkelband en uit een een armband/horloge rond de pol
 <b>De enkelband</b><br>
 We werken met een enkelband omdat we op deze manier verzekeren dat de positie van de sensor (bevestigd aan de enkelband) steeds hetzelfde is zonder de gebruiker te "storen" met gebruiksaanwijzingen en ... .
 Logischer wijs is het zeer belangrijk dat de enkelband een zo,n groot mogelijke hoeveelheid mensen in onze doelgroep past. Om dit te verzekeren wordt de omtrek (a) van de enkel zeer belangrijk, maar ook de afstand van de ondervoet tot de enkel (b)(zie figuur)
-![voeten](https://github.com/molleke1/UCD_SEM1/assets/157485350/43e73236-d961-4cdf-85b9-32e96ca47f22)
+
+![voeten](https://github.com/molleke1/UCD_SEM1/assets/157485350/0ecd9a11-4155-47af-b7f9-e19126e1fa61)
+
 </li>
 </ul>
 
