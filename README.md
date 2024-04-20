@@ -206,11 +206,15 @@ Logischer wijs is het zeer belangrijk dat de enkelband een zo,n groot mogelijke 
 </li>
 <li>
 <b>De armband/horloge</b><br>
-De armband/horloge gebruiken we om de gebruiker mee te delen wat ze fout doen en hoe ze het beter kunnen doen. Hierbij is het belangrijk dat de band voldoende rek heeft (indien we werken met rekbandje) of voldoende gaatjes (horloge-systeem) om rond de pols te passen. Hierbij zal dan ook voornamelijk de omtrek van de pols belangrijk zijn. Dit is echter niet het enige, zo zal de breedte van de pols ook belangrijk zijn om een idee te hebben hoe groot we onze interface mogen nemen.
-
-![armband](https://github.com/molleke1/UCD_SEM1/assets/157485350/b580dbd9-f78b-41e3-979e-72c5182c353b)
+De armband/horloge gebruiken we om de gebruiker mee te delen wat ze fout doen en hoe ze het beter kunnen doen. Hierbij is het belangrijk dat de band voldoende rek heeft (indien we werken met rekbandje) of voldoende gaatjes (horloge-systeem) om rond de pols te passen. Hierbij zal dan ook voornamelijk de omtrek van de pols (c) belangrijk zijn. Dit is echter niet het enige, zo zal de breedte van de pols (d) ook belangrijk zijn om een idee te hebben hoe groot we onze interface mogen nemen.
+   
+![armband](https://github.com/molleke1/UCD_SEM1/assets/157485350/ed10c10e-1070-44b1-9dfc-ff1e538864b5)
 </li>
 </ul>
+<br>
+Bij het opzoeken van de vernoemde waarden in antropometrische databases zoals (DINED, DINBELG, ANSUR 1, ...) hebben we niets gevonden van de waarden die we zochten. 
+
+
 
 
 ## Bronnen
