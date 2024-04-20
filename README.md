@@ -203,7 +203,12 @@ We werken met een enkelband omdat we op deze manier verzekeren dat de positie va
 Logischer wijs is het zeer belangrijk dat de enkelband een zo,n groot mogelijke hoeveelheid mensen in onze doelgroep past. Om dit te verzekeren wordt de omtrek (a) van de enkel zeer belangrijk, maar ook de afstand van de ondervoet tot de enkel (b)(zie figuur)
 
 ![voeten](https://github.com/molleke1/UCD_SEM1/assets/157485350/0ecd9a11-4155-47af-b7f9-e19126e1fa61)
+</li>
+<li>
+<b>De armband/horloge</b><br>
+De armband/horloge gebruiken we om de gebruiker mee te delen wat ze fout doen en hoe ze het beter kunnen doen. Hierbij is het belangrijk dat de band voldoende rek heeft (indien we werken met rekbandje) of voldoende gaatjes (horloge-systeem) om rond de pols te passen. Hierbij zal dan ook voornamelijk de omtrek van de pols belangrijk zijn. Dit is echter niet het enige, zo zal de breedte van de pols ook belangrijk zijn om een idee te hebben hoe groot we onze interface mogen nemen.
 
+![armband](https://github.com/molleke1/UCD_SEM1/assets/157485350/b580dbd9-f78b-41e3-979e-72c5182c353b)
 </li>
 </ul>
 
