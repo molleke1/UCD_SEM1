@@ -217,10 +217,19 @@ Bij het opzoeken van de vernoemde waarden (a,b,c,d) in antropometrische database
 <li>
 <b>Omtrek van de enkel</b> <i>(a)</i><br>
 Deze maat hebben we deels zelf bepaald. Zo heeft het groepje van Emile en Tom namelijk van een groot deel van onze klas (waaronder wij zelf) de omtrek gemeten rond de enkel en dit dan doorgestuurd naar iedereen die werkt rond 'sport en tech'. Deze waarden waren echter allemaal van 20-25 jarigen. Aangezien onze doelgroep 20-60 jarigen zijn passen deze daar net in. Om te controleren of een oudere leeftijd nog veel verschil heeft op de omtrek van de enkel hebben we enkele 40-50 jarigen getest. Om dit te kunnen testen hebben we onze eigen flexibele meter gecreerd uit ductape aangezien geen van ons beide een thuis had liggen. Onze ondervindingen hierbij waren dat deze juiste dezelfde waarden hadden zoals de 20-25 jarigen en het leeftijdsverschil dus geen zo'n grote invloed had. Al deze waarden hebben we dan in excel geplaatst en het gemiddelde en de variantie van bepaald. <br>
-Natuurlijk zit er op deze waarde een zeer grote foutmarge. We hebben namelijk geen testen gedaan met zwaarlijvige mensen, zeer lange mensen, ... . Wel stuurt het ons in de juiste richting en proberen we het in rekening te houden door een wat grotere variatie aan te rekenen, van ... naar ... .
+Natuurlijk zit er op deze waarde een zeer grote foutmarge. We hebben namelijk geen testen gedaan met zwaarlijvige mensen, zeer lange mensen, etc. maar doordat we ons gericht hebben op de "gemiddelde" mens willen we niet dat deze extreme waarden ons gemiddelde extreem beïnvloeden en laten we deze dan ook buiten beschouwing.<br>
+Met andere woorden gebruiken we de ontwerpstrategie: "Design for the small". Waarbij we de omtrek van de enkel pakken bij een magere/gemiddelde mens, maar door gebruik te maken van een elastische stof is het ook mogelijk om gedragen te worden door mensen met een grotere enkel.</li>
+<li>
+<b>Omtrek van de pols</b> <i>(c)</i> <br>
+Deze maat was wederom niet duidelijk te vinden op de sites met antropometrische gegevens, dus besloten we de waarden van enkele horloge's die al op de markt zijn over te nemen. we hebben ook de maat van enkele 20-50 jarigen afgenomen en kunnen op die manier een bandje ontwerpen voor de pols die voor iedereen gebruikt kan worden. we hebben ook besloten om een riembandje <i>(een bandje met gaten die past voor meerdere gebruikers met verschillende maten)</i>te gebruiken in plaats van velcro. 
 
 
+   
 </li>
+
+
+
+
 </ol>
 
 
