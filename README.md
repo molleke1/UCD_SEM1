@@ -221,15 +221,8 @@ Natuurlijk zit er op deze waarde een zeer grote foutmarge. We hebben namelijk ge
 Met andere woorden gebruiken we de ontwerpstrategie: "Design for the small". Waarbij we de omtrek van de enkel pakken bij een magere/gemiddelde mens, maar door gebruik te maken van een elastische stof is het ook mogelijk om gedragen te worden door mensen met een grotere enkel.</li>
 <li>
 <b>Omtrek van de pols</b> <i>(c)</i> <br>
-Deze maat was wederom niet duidelijk te vinden op de sites met antropometrische gegevens, dus besloten we de waarden van enkele horloge's die al op de markt zijn over te nemen. we hebben ook de maat van enkele 20-50 jarigen afgenomen en kunnen op die manier een bandje ontwerpen voor de pols die voor iedereen gebruikt kan worden. we hebben ook besloten om een riembandje <i>(een bandje met gaten die past voor meerdere gebruikers met verschillende maten)</i>te gebruiken in plaats van velcro. 
-
-
-   
+Deze maat was wederom niet duidelijk te vinden op de sites met antropometrische gegevens, dus besloten we de waarden van enkele horloge's die al op de markt zijn over te nemen. we hebben ook de maat van enkele 20-50 jarigen afgenomen en kunnen op die manier een bandje ontwerpen voor de pols die voor iedereen gebruikt kan worden. we hebben ook besloten om een riembandje <i>(een bandje met gaten die past voor meerdere gebruikers met verschillende maten)</i>te gebruiken in plaats van velcro omdat velcro niet zeer betrouwbaar is bij slechte weersomstandigheden zoals regen en zweet en onder hoge krachten bij het lopen. 
 </li>
-
-
-
-
 </ol>
 
 
