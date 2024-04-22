@@ -214,6 +214,7 @@ De armband/horloge gebruiken we om de gebruiker mee te delen wat ze fout doen en
 <br>
 Bij het opzoeken van de vernoemde waarden (a,b,c,d) in antropometrische databases zoals (DINED, DINBELG, ANSUR 1, ...) hebben we helemaal niets gevonden. Steeds was er info te vinden over zowel de handen als de voeten, maar nooit de info die wij zochten. Hierdoor zat er dan ook niets anders op dan zelf op onderzoek te gaan en onze eigen antropometrische waarden te gaan opstellen. 
 <br>
+<br>
 <ol>
 <li>
 <b>Omtrek van de enkel</b> <i>(a)</i><br>
