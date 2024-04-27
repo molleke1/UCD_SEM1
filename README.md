@@ -179,7 +179,7 @@ Als team willen we laten zien dat we bekwaam zijn in het presenteren van ons con
 We hebben gebruik gemaakt van verschilledne manieren/methoden om onze conclusies te kunnen onderbouwen<br>
 <ul>
 <li>
-<s>De prototypes</s><br>
+<b>De prototypes</b><br>
 Door onze prototypes steeds zelf te maken kregen we een zeer goed idee wat allemaal mogelijk was. Zo ontdekten we al zeer snel dat we onze prototypes beter niet maakten uit karton en plastiek. Op de figuur zie je een voorbeeld hiervan en ik kan met zekerheid zeggen dat deze niet zo comfortabel zaten. Comfort is niet het belangrijkste van ons product, maar speelt wel een belangrijke rol in hoe ze het product ervaren. Zo hebben we dan ook besloten de prototypes up te graden naar stof.
 
 ![enkelband](https://github.com/molleke1/UCD_SEM1/assets/157485350/93248689-d039-4354-ae4e-e954c69aee4d)
