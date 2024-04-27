@@ -196,7 +196,6 @@ Het doel van onze gebruikerstesten was voornamelijk bepalen met welk soort enkel
 </li>
 </ul>
 
-
 ### Resultaten
 De uiteindelijke doelstelling is dat we een product ontwikkelen die eenvoudig te gebruiken is voor eender wie, en zo efficient mogelijk helpt om de looptstijl te verbeteren met behulp van real-time feedback. We trachten de <b>communicatie met de loper</b> zo duidelijk mogelijk te houden voor het beste effect. Dit wil zeggen dat we moeten  signaleren wanneer er een te grote schok gemeten wordt zodanig dat er direct een verandering kan komen. Uit de interviews merkten we dat de mensen die het product willen kopen ook ervoor open staan om eventueel een horloge of muziek te willen gebruiken om zo deze feedback te krijgen.
 
