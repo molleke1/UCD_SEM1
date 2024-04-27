@@ -176,6 +176,16 @@ Ook kunnen we concluderen dat die generatie/doelgroep zo veel mogelijk de dokter
 Ons ultieme doel in deze opdracht is het creëren van een conceptueel ontwerp. We willen aantonen dat we in staat zijn om op basis van gebruikerstesten de logica achter specifieke ontwerpbeslissingen te rechtvaardigen. Het is essentieel dat we ons concept analytisch kunnen ontleden in verschillende deelaspecten. Daarna moeten we deze aspecten vormgeven door middel van prototyping, testing en het opstellen van goed gedocumenteerde design requirements. <br>
 Als team willen we laten zien dat we bekwaam zijn in het presenteren van ons concept en dat we in staat zijn om de gemaakte ontwerpkeuzes te rechtvaardigen. Het vermogen om ons concept geloofwaardig te pitchen en de achterliggende redenering te communiceren is van cruciaal belang voor het succes van het ontwerpproces.
 ### Materiaal & methoden
+We hebben gebruik gemaakt van verschilledne manieren/methoden om onze conclusies te kunnen onderbouwen<br>
+<ul>
+<li>
+<s>De prototypes</s><br>
+Door onze prototypes steeds zelf te maken kregen we een zeer goed idee wat allemaal mogelijk was. Zo ontdekten we al zeer snel dat we onze prototypes beter niet maakten uit karton en plastiek. Op de figuur zie je een voorbeeld hiervan en ik kan met zekerheid zeggen dat deze niet zo comfortabel zaten. Comfort is niet het belangrijkste van ons product, maar speelt wel een belangrijke rol in hoe ze het product ervaren. Zo hebben we dan ook besloten de prototypes up te graden naar stof.
+
+![enkelband](https://github.com/molleke1/UCD_SEM1/assets/157485350/93248689-d039-4354-ae4e-e954c69aee4d)
+![enkelhanger](https://github.com/molleke1/UCD_SEM1/assets/157485350/119a0d91-8606-4178-9c37-3c00984ccc50)
+
+</ul>
 Een van de manieren waaruit we de meeste info haalden waren onze prototypes, door deze prototypes zelf te maken, testen en verbeteren hebben we veel geleerd over welke features allemaal belangrijk zijn. Ook had het geholpen om gebruikerstesten af te leggen, want deze gaven een ander zicht op onze oplossing en hielpen ons enorm om ons conceptueel ontwerp te verfijnen. Door deze testen af te leggen ging duidelijk worden  wat mensen belangrijk vinden, welke soort kousen ze dragen, of ze muziek luisteren of met een horloge lopen. Dit helpt dan weer om ons persona verder uit te breiden waarop we dan weer onze volgende stappen kunnen baseren. 
 ### Resultaten
 De uiteindelijke doelstelling is dat we een product ontwikkelen die eenvoudig te gebruiken is voor eender wie, en zo efficient mogelijk helpt om de looptstijl te verbeteren met behulp van real-time feedback. We trachten de <b>communicatie met de loper</b> zo duidelijk mogelijk te houden voor het beste effect. Dit wil zeggen dat we moeten  signaleren wanneer er een te grote schok gemeten wordt zodanig dat er direct een verandering kan komen. Uit de interviews merkten we dat de mensen die het product willen kopen ook ervoor open staan om eventueel een horloge of muziek te willen gebruiken om zo deze feedback te krijgen.
