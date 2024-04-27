@@ -186,11 +186,20 @@ Door onze prototypes steeds zelf te maken kregen we een zeer goed idee wat allem
 ![enkelband](https://github.com/molleke1/UCD_SEM1/assets/157485350/93248689-d039-4354-ae4e-e954c69aee4d)
 ![enkelhanger](https://github.com/molleke1/UCD_SEM1/assets/157485350/119a0d91-8606-4178-9c37-3c00984ccc50)
 
+<br>
+De prototypes gemaakt uit stof zaten veel comfortabeler en waren hierdoor ook veel makkelijker om mee te testen <i>(zie volgende figuur)</i>
+
+</li>
+<li>
+<b>Gebruikerstesten</b><br>
+Het doel van onze gebruikerstesten was voornamelijk bepalen met welk soort enkelbandsysteem we moeten doorgaan. Deze verschillende systemen werden steeds bevestigd aan de voet/enkel, maar hadden een ander ankerpunt of werking. Zo is het ankerpunt van het prototype 1, 2 bij de enkel en van het prototype 3 bij de hiel. Prototype 1 en 2 verschillen dan weer van elkaar doordat het ene moet gestoken worden in je kous met de cirkel rond de enkel (1) en het andere een hele enkelband is (2).
 </li>
 </ul>
-Een van de manieren waaruit we de meeste info haalden waren onze prototypes, door deze prototypes zelf te maken, testen en verbeteren hebben we veel geleerd over welke features allemaal belangrijk zijn. Ook had het geholpen om gebruikerstesten af te leggen, want deze gaven een ander zicht op onze oplossing en hielpen ons enorm om ons conceptueel ontwerp te verfijnen. Door deze testen af te leggen ging duidelijk worden  wat mensen belangrijk vinden, welke soort kousen ze dragen, of ze muziek luisteren of met een horloge lopen. Dit helpt dan weer om ons persona verder uit te breiden waarop we dan weer onze volgende stappen kunnen baseren. 
+
+
 ### Resultaten
 De uiteindelijke doelstelling is dat we een product ontwikkelen die eenvoudig te gebruiken is voor eender wie, en zo efficient mogelijk helpt om de looptstijl te verbeteren met behulp van real-time feedback. We trachten de <b>communicatie met de loper</b> zo duidelijk mogelijk te houden voor het beste effect. Dit wil zeggen dat we moeten  signaleren wanneer er een te grote schok gemeten wordt zodanig dat er direct een verandering kan komen. Uit de interviews merkten we dat de mensen die het product willen kopen ook ervoor open staan om eventueel een horloge of muziek te willen gebruiken om zo deze feedback te krijgen.
+
 ### Conclusies & implicaties
 Uit het onderzoek van de define-fase hebben we besloten om een product te maken waarbij een sleeve gebruikt wordt, een soort kous die eventueel onder de normale kous kan worden gedragen. Waarin een “zakje” bevestigd is die groot genoeg is voor de sensor om in te rusten. Hierdoor is de bevestiging van de sensor op het scheenbeen goed en blijft deze heel stil zitten bij zware bewegingen tijdens het lopen. De manier van communicatie met de loper werkt als volgt: wanneer er een te hoge schok wordt gedetecteerd door de sensor zal er een signaal worden uitgestuurd naar de koptelefoon of sporthorloge. Dit zal een soort getik zijn in de koptelefoon of een lichtje in het horloge. Hoe sneller het lichtje of het getik, hoe slechter je techniek op dat moment; dan is het dus ook de bedoeling dat je stilaan je techniek veranderd met behulp van de tikjes of lichtjes. Als het minder snel wordt, dan weet je dat je de juiste richting uitgaat en je zo verder moet doen, moest het weer sneller worden dan weet je dat je weer iets fout doet. Als het getik/lichtje stopt. Dan heb je de ideale/juiste techniek terug aangenomen. Uiteraard is het dan voor jezelf belangrijk als loper dat je onthoud wat je juist veranderd hebt als het getik of lichtje trager wordt. Dan kan je rechtstreeks de link leggen met wat er verkeerd is met je looptechniek en dat onthouden voor de volgende keer.
 
