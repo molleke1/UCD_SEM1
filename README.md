@@ -197,7 +197,16 @@ Het doel van onze gebruikerstesten was voornamelijk bepalen met welk soort enkel
 </ul>
 
 ### Resultaten
-De uiteindelijke doelstelling is dat we een product ontwikkelen die eenvoudig te gebruiken is voor eender wie, en zo efficient mogelijk helpt om de looptstijl te verbeteren met behulp van real-time feedback. We trachten de <b>communicatie met de loper</b> zo duidelijk mogelijk te houden voor het beste effect. Dit wil zeggen dat we moeten  signaleren wanneer er een te grote schok gemeten wordt zodanig dat er direct een verandering kan komen. Uit de interviews merkten we dat de mensen die het product willen kopen ook ervoor open staan om eventueel een horloge of muziek te willen gebruiken om zo deze feedback te krijgen.
+De uiteindelijke doelstelling is dat we een product ontwikkelen die eenvoudig te gebruiken is voor onze doelgroep en die zo efficient mogelijk helpt om de looptstijl te verbeteren met behulp van real-time feedback. 
+<ul>
+<li>
+enkelbanb<br>
+Hierbij hebben we onze verschillende systemen voorgelegd aan potentiele gebruikers. Over het algemeen waren ze hier zeer positief over en vonden ze het een leuk initiatief. Waar wij vooral het meest uit hebben geleerd was wanneer ze het product zelf uitprobeerden. Zo zagen we waar ze mee strugelden en wisten we daar kan iets beter. Ook stelden ze ons soms vragen zoals <i>moet het over de kous</i> of <i>is het de linker of rechter voet</i> waardoor we wisten dat daar ook onze ondelinge communicatie met de gebruiker wat beter kon.
+<li>
+Real-time feedback <br>
+We trachten de <b>communicatie met de loper</b> zo duidelijk mogelijk te houden voor het beste effect. Dit wil zeggen dat we moeten signaleren wanneer er een te grote schok gemeten wordt zodanig dat er direct een verandering kan komen. Hiervoor hadden we enkele systemen in gedadchten, maar deze hadden we nog niet uitgewerkt. Deze konden we dus ook niet testen met onze gebruikerstesten.
+</li>
+</ul>
 
 ### Conclusies & implicaties
 Uit het onderzoek van de define-fase hebben we besloten om een product te maken waarbij een sleeve gebruikt wordt, een soort kous die eventueel onder de normale kous kan worden gedragen. Waarin een “zakje” bevestigd is die groot genoeg is voor de sensor om in te rusten. Hierdoor is de bevestiging van de sensor op het scheenbeen goed en blijft deze heel stil zitten bij zware bewegingen tijdens het lopen. De manier van communicatie met de loper werkt als volgt: wanneer er een te hoge schok wordt gedetecteerd door de sensor zal er een signaal worden uitgestuurd naar de koptelefoon of sporthorloge. Dit zal een soort getik zijn in de koptelefoon of een lichtje in het horloge. Hoe sneller het lichtje of het getik, hoe slechter je techniek op dat moment; dan is het dus ook de bedoeling dat je stilaan je techniek veranderd met behulp van de tikjes of lichtjes. Als het minder snel wordt, dan weet je dat je de juiste richting uitgaat en je zo verder moet doen, moest het weer sneller worden dan weet je dat je weer iets fout doet. Als het getik/lichtje stopt. Dan heb je de ideale/juiste techniek terug aangenomen. Uiteraard is het dan voor jezelf belangrijk als loper dat je onthoud wat je juist veranderd hebt als het getik of lichtje trager wordt. Dan kan je rechtstreeks de link leggen met wat er verkeerd is met je looptechniek en dat onthouden voor de volgende keer.
