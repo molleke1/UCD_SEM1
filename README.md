@@ -186,8 +186,6 @@ Door onze prototypes steeds zelf te maken kregen we een zeer goed idee wat allem
 ![enkelband](https://github.com/molleke1/UCD_SEM1/assets/157485350/93248689-d039-4354-ae4e-e954c69aee4d)
 ![enkelhanger](https://github.com/molleke1/UCD_SEM1/assets/157485350/119a0d91-8606-4178-9c37-3c00984ccc50)
 
-
-De prototypes gemaakt uit stof zaten veel comfortabeler en waren hierdoor ook veel makkelijker om mee te testen <i>(zie volgende figuur)</i>
 <br>
 </li>
 <li>
