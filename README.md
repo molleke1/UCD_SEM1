@@ -200,7 +200,7 @@ Het doel van onze gebruikerstesten was voornamelijk bepalen met welk soort enkel
 De uiteindelijke doelstelling is dat we een product ontwikkelen die eenvoudig te gebruiken is voor onze doelgroep en die zo efficient mogelijk helpt om de looptstijl te verbeteren met behulp van real-time feedback. 
 <ul>
 <li>
-enkelbanb<br>
+enkelband<br>
 Hierbij hebben we onze verschillende systemen voorgelegd aan potentiele gebruikers. Over het algemeen waren ze hier zeer positief over en vonden ze het een leuk initiatief. Waar wij vooral het meest uit hebben geleerd was wanneer ze het product zelf uitprobeerden. Zo zagen we waar ze mee strugelden en wisten we daar kan iets beter. Ook stelden ze ons soms vragen zoals <i>moet het over de kous</i> of <i>is het de linker of rechter voet</i> waardoor we wisten dat daar ook onze ondelinge communicatie met de gebruiker wat beter kon.
 <li>
 Real-time feedback <br>
