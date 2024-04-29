@@ -181,16 +181,16 @@ We hebben gebruik gemaakt van verschilledne manieren/methoden om onze conclusies
 <ul>
 <li>
 <b>De prototypes</b><br>
-Door onze prototypes steeds zelf te maken kregen we een zeer goed idee wat allemaal mogelijk was. Zo ontdekten we al zeer snel dat we onze prototypes beter niet maakten uit karton en plastiek. Op de figuur zie je een voorbeeld hiervan en ik kan met zekerheid zeggen dat deze niet zo comfortabel zaten. Comfort is niet het belangrijkste van ons product, maar speelt wel een belangrijke rol in hoe ze het product ervaren. Zo hebben we dan ook besloten de prototypes up te graden naar stof.
-
-![enkelband](https://github.com/molleke1/UCD_SEM1/assets/157485350/93248689-d039-4354-ae4e-e954c69aee4d)
-![enkelhanger](https://github.com/molleke1/UCD_SEM1/assets/157485350/119a0d91-8606-4178-9c37-3c00984ccc50)
+Door onze prototypes steeds zelf te maken kregen we een zeer goed idee van wat allemaal mogelijk was. Zo ontdekten we al zeer snel dat we onze prototypes beter niet maakten uit karton en plastiek. Op de figuur zie je een voorbeeld hiervan en ik kan met zekerheid zeggen dat deze niet zo comfortabel zaten. Comfort is niet het belangrijkste van ons product, maar speelt wel een belangrijke rol in hoe ze het product ervaren. Zo hebben we dan ook beloten onze prototypes uit te werken in stof, voor onze gebruikerstesten hadden we echter te weinig tijd om het nog helemaal in stof uit te werken, dit zal dus voor het volgend trimister zijn.
+   
+![enkelhanger2](https://github.com/molleke1/UCD_SEM1/assets/157485350/4f03d200-8d18-471f-a0a5-c02d2012ac1b)
+![enkelband2](https://github.com/molleke1/UCD_SEM1/assets/157485350/319d3289-a077-4636-ad7f-09de94892743)
 
 <br>
 </li>
 <li>
 <b>Gebruikerstesten</b><br>
-Het doel van onze gebruikerstesten was voornamelijk bepalen met welk soort enkelbandsysteem we moeten doorgaan. Deze verschillende systemen werden steeds bevestigd aan de voet/enkel, maar hadden een ander ankerpunt of werking. Zo is het ankerpunt van het prototype 1, 2 bij de enkel en van het prototype 3 bij de hiel. Prototype 1 en 2 verschillen dan weer van elkaar doordat het ene moet gestoken worden in je kous met de cirkel rond de enkel (1) en het andere een hele enkelband is (2).
+Het doel van onze gebruikerstesten was voornamelijk bepalen met welk soort enkelbandsysteem we moeten doorgaan. Deze verschillende systemen werden steeds bevestigd aan de voet/enkel, maar hadden een andere werking. Zo verschillen prototype 1 en 2 van elkaar doordat het ene moet gestoken worden in je kous met de cirkel rond de enkel (1) en het andere een hele enkelband is (2).
 </li>
 </ul>
 
