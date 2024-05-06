@@ -205,8 +205,16 @@ Het doel van onze gebruikerstesten was voornamelijk bepalen met welk soort enkel
 Ook polsten we tijdens de gebruikerstesten eens onze ideeen voor het communiceren van de data van de sensor. Onze verschillende ideeen voor real-time feeback bestonden uit
 <ul>
 <li>
-peopele
+Gebruik van trillingen om de aandacht van de loper te hebben en dan iets communceren met geluid, display, ...
 </li>
+<li>
+Muziek dat communiceert wat je fout doet aan de hand van oortjes tijdens het lopen of kan ook een geluid zijn dat trager of lui
+</li>
+<li>
+
+</li>
+<li></li>
+<li></li>
 </ul>
 </li>
 </ul>
