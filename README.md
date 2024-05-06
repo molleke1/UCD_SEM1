@@ -251,7 +251,7 @@ Onze conclusies uit de gebruikerstesten even opgelijst:
 Voor de enkelband:
 <ul>
 <li>
-De communicatie met de gebruiker kan een stuk beter. <br> Zo leerden we dat ze niet precies wisten of ze de enkelband/enkelschijf boven of onder de kous moeten dragen. In theorioe is dit niet het grooste probleem zolang ze korte kousen dragen tijdens het lopen, maar als ze lange kousen dragen bevindt de sensor zich verder van het been en zullen de trillingen weer extra gecompenseerd zijn door de kousen. <br> Ook leerden we dat ze niet wisten aan welke voet/been ze de enkelband/enkelschijf moesten bevestigen 
+<b>De communicatie met de gebruiker kan een stuk beter.</b> <br> Zo leerden we dat ze niet precies wisten of ze de enkelband/enkelschijf boven of onder de kous moeten dragen. In theorioe is dit niet het grooste probleem zolang ze korte kousen dragen tijdens het lopen, maar als ze lange kousen dragen bevindt de sensor zich verder van het been en zullen de trillingen weer extra gecompenseerd zijn door de kousen. <br> Ook leerden we dat ze niet wisten aan welke voet/been ze de enkelband/enkelschijf moesten bevestigen 
 </li>
 </ul>
 </li>
