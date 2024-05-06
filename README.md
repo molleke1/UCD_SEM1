@@ -298,6 +298,10 @@ Ons product bestaat uit 2 delen; de display en de sensor.<br>
    </li>
 </ul>
 
+## human senses
+Welke aanpassingen hebben we gemaakt op het vlak van sensoriële ergonomie?
+
+
 
 ## Bronnen
 Victoris. (z.d.). Lower impact running. Geraadpleegd op 04 oktober 2023 van  
