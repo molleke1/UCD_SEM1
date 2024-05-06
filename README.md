@@ -202,7 +202,20 @@ Zo ontdekten we al zeer snel dat we onze prototypes beter niet maakten uit karto
 <li>
 <b>Gebruikerstesten</b><br>
 Het doel van onze gebruikerstesten was voornamelijk bepalen met welk soort enkelbandsysteem we moesten doorgaan. Deze verschillende systemen werden steeds bevestigd aan de voet/enkel, maar hadden een andere werking. Zo verschillen prototype 1 en 2 van elkaar doordat het ene moet gestoken worden in je kous met de cirkel rond de enkel (1) en het andere een hele enkelband is (2). <br>
-Ook polsten we tijdens de gebruikerstesten eens onze ideeen voor het communiceren van de data van de sensor. Onze verschillende ideeen voor real-time feeback bestonden uit
+Als de schokken te groot worden bij het lopen is het belangrijk dat we dit meegeven met de loper. Deze communicatie trachten we zo duidelijk mogelijk te houden voor het beste effect. Dit wil zeggen dat we moeten signaleren wanneer er een te grote schok gemeten wordt, zodanig dat de loper zijn loophouding kan aanpassen. Hiervoor hadden we enkele systemen uitgedacht, maar nog niet praktisch uitgewerkt als prototypes. Deze hebben we dus ook niet fysiek kunnen testen bij de gebruikers. Wel hebben we eens onze ideeen voorgelegd tijdens de gebruikerstesten.
+</li>
+</ul>
+
+### Resultaten
+Uit onze gebruikerstesten hebben we volgende zaken gehaald:
+<ul>
+<li>
+Op vlak van de enkelband<br>
+Hierbij hebben we onze verschillende systemen voorgelegd aan potentiele gebruikers. Over het algemeen waren ze hier zeer positief over en vonden ze het een leuk initiatief. Waar wij vooral het meest uit hebben geleerd was wanneer ze het product zelf uitprobeerden. Zo zagen we waar ze mee strugelden en wisten we daar kan iets beter. Ook stelden ze ons soms vragen zoals <i>moet het over de kous</i> of <i>is het de linker of rechter voet</i> waardoor we wisten dat daar ook onze onderlinge communicatie met de gebruiker wat beter kon.
+</li>
+<li>
+Op vlak van Real-time feedback <br>
+Tijdens de gebruikerstesten polsten we eens onze ideeen voor het communiceren van de data van de sensor. Onze verschillende ideeen voor real-time feeback bestonden uit
 <ul>
 <li>
 Gebruik van trillingen om de aandacht van de loper te hebben en dan iets communceren met geluid, morse-code, display, ...
@@ -217,19 +230,6 @@ Als je fout bezig bent begint er een lichtje te branden
 als je fout loopt zal de sensor koude of warmte geven om de aandacht te trekken en dan iets te communiceren met morse-code, geluid, display, ...
 </li>
 </ul>
-</li>
-</ul>
-
-### Resultaten
-Uit onze gebruikerstesten hebben we volgende zaken gehaald:
-<ul>
-<li>
-Op vlak van de enkelband<br>
-Hierbij hebben we onze verschillende systemen voorgelegd aan potentiele gebruikers. Over het algemeen waren ze hier zeer positief over en vonden ze het een leuk initiatief. Waar wij vooral het meest uit hebben geleerd was wanneer ze het product zelf uitprobeerden. Zo zagen we waar ze mee strugelden en wisten we daar kan iets beter. Ook stelden ze ons soms vragen zoals <i>moet het over de kous</i> of <i>is het de linker of rechter voet</i> waardoor we wisten dat daar ook onze onderlinge communicatie met de gebruiker wat beter kon.
-</li>
-<li>
-Op vlak van Real-time feedback <br>
-Als de schokken te groot worden bij het lopen is het belangrijk dat we dit meegeven met de loper. Deze communicatie trachten we zo duidelijk mogelijk te houden voor het beste effect. Dit wil zeggen dat we moeten signaleren wanneer er een te grote schok gemeten wordt, zodanig dat de loper zijn loophouding kan aanpassen. Hiervoor hadden we enkele systemen uitgedacht, maar nog niet praktisch uitgewerkt als prototypes. Deze hebben we dus ook niet fysiek kunnen testen bij de gebruikers. Wel hebben we eens onze ideeen voorgelegd.
 </li>
 </ul>
 
