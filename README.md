@@ -251,7 +251,10 @@ Onze conclusies uit de gebruikerstesten even opgelijst:
 Voor de enkelband:
 <ul>
 <li>
-<b>De communicatie met de gebruiker kan een stuk beter.</b> <br> Zo leerden we dat ze niet precies wisten of ze de enkelband/enkelschijf boven of onder de kous moeten dragen. In theorioe is dit niet het grooste probleem zolang ze korte kousen dragen tijdens het lopen, maar als ze lange kousen dragen bevindt de sensor zich verder van het been en zullen de trillingen weer extra gecompenseerd zijn door de kousen. <br> Ook leerden we dat ze niet wisten aan welke voet/been ze de enkelband/enkelschijf moesten bevestigen 
+<b>De communicatie met de gebruiker kan een stuk beter.</b> <br> Zo leerden we dat ze niet precies wisten of ze de enkelband/enkelschijf boven of onder de kous moeten dragen. In theorioe is dit niet het grooste probleem zolang ze korte kousen dragen tijdens het lopen, maar als ze lange kousen dragen bevindt de sensor zich verder van het been en zullen de trillingen weer extra gecompenseerd zijn door de kousen. <br> Ook leerden we dat ze niet wisten aan welke voet/been ze de enkelband/enkelschijf moesten bevestigen. Een goed idee zou dus te werken zijn met een L en een R aan de enkel om zo de juiste positie van de sensor te kunnen geranderen. (figuur hieronder geeft de juiste positie aan, aan de buitenkant van het been)
+
+![mevrouw+sensor](https://github.com/molleke1/UCD_SEM1/assets/157485350/17815a3a-0ae8-4404-af78-5e3192b46612)
+ 
 </li>
 </ul>
 </li>
