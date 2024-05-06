@@ -192,7 +192,7 @@ We hebben gebruik gemaakt van verschilledne manieren/methoden om onze conclusies
 <li>
 <b>De prototypes</b><br>
 Door onze prototypes zelf te maken kregen we een zeer goed idee van wat allemaal mogelijk was.<br>
-Zo ontdekten we al zeer snel dat we onze prototypes beter niet maakten uit karton en/of plastiek. Op de figuur zie je een voorbeeld hiervan en ik kan met zekerheid zeggen dat deze niet zo comfortabel zaten. Comfort is niet het belangrijkste van ons product, maar speelt wel een belangrijke rol in hoe de gebruiker het product ervaren. Het best zou dus zijn om over te stappen naar stoffen prototypes.
+Zo ontdekten we al zeer snel dat we onze prototypes beter niet maakten uit karton en/of plastiek. Op de figuur zie je een voorbeeld hiervan en ik kan met zekerheid zeggen dat deze niet zo comfortabel zaten. Comfort is niet het belangrijkste van ons product, maar speelt wel een belangrijke rol in hoe de gebruiker het product ervaren. Het best zou zijn om over te stappen naar stoffen prototypes.
 
 ![enkelhanger2](https://github.com/molleke1/UCD_SEM1/assets/157485350/4f03d200-8d18-471f-a0a5-c02d2012ac1b)
 ![enkelband2](https://github.com/molleke1/UCD_SEM1/assets/157485350/319d3289-a077-4636-ad7f-09de94892743)
@@ -201,7 +201,13 @@ Zo ontdekten we al zeer snel dat we onze prototypes beter niet maakten uit karto
 </li>
 <li>
 <b>Gebruikerstesten</b><br>
-Het doel van onze gebruikerstesten was voornamelijk bepalen met welk soort enkelbandsysteem we moeten doorgaan. Deze verschillende systemen werden steeds bevestigd aan de voet/enkel, maar hadden een andere werking. Zo verschillen prototype 1 en 2 van elkaar doordat het ene moet gestoken worden in je kous met de cirkel rond de enkel (1) en het andere een hele enkelband is (2).
+Het doel van onze gebruikerstesten was voornamelijk bepalen met welk soort enkelbandsysteem we moesten doorgaan. Deze verschillende systemen werden steeds bevestigd aan de voet/enkel, maar hadden een andere werking. Zo verschillen prototype 1 en 2 van elkaar doordat het ene moet gestoken worden in je kous met de cirkel rond de enkel (1) en het andere een hele enkelband is (2). <br>
+Ook polsten we tijdens de gebruikerstesten eens onze ideeen voor het communiceren van de data van de sensor. Onze verschillende ideeen voor real-time feeback bestonden uit
+<ul>
+<li>
+peopele
+</li>
+</ul>
 </li>
 </ul>
 
