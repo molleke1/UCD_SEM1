@@ -321,21 +321,6 @@ Ons product bestaat uit 2 delen; de display en de sensor.<br>
    </li>
 </ul>
 
-## human senses
-Is ons product eenvoudig te gebruiken zonder een handleiding?<br>
-Ons product bestaat uit 2 delen; de display en de sensor.<br>
-<ul>
-   <li>
-      <b>De display</b><br>
-      Voor onze display is het vooral belangrijk dat de gebruiker weet wat de verschillende schermen betekenen en dus ook weet wat moet gebeuren als deze schermen weergegeven worden. dit hebben we getest bij de gebruikerstesten door op papier de verschillende mogelijkheden te tonen en te timen hoe lang het duurde voor de gebruiker zei wat hij zou moeten doen.<br>
-      Wat we hieruit geleerd hebben is dat de eenvoudige schermen met enkel kleuren en pijltjes dezelfde (nuttige) informatie overbrengen maar in een veel kortere tijd. Waardoor het ons logisch lijkt om dan ook de eenvoudige displays verder te gebruiken en daar onze tests mee te doen.
-      
-   </li>
-   <li>
-      <b>De sensor</b><br>
-      Bij de sensor is het de bedoeling dat de sensor altijd juist bevestigd wordt vanaf de eerste keer anders zou de test al vanaf het begin kunnen falen. daarvoor hebben we een soort kous gebruikt die de hiel als anker gebruikt zodat de sensor zeker telkens op de juiste plaats terecht komt op het scheenbeen. Ook maken we met behulp van een R of een L duidelijk of de kous voor de rechter of linker voet moet gedragen worden.
-   </li>
-</ul>
 
 ## human senses
 Welke aanpassingen hebben we gemaakt op het vlak van sensoriële ergonomie? <br>
