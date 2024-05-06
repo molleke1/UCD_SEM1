@@ -205,16 +205,17 @@ Het doel van onze gebruikerstesten was voornamelijk bepalen met welk soort enkel
 Ook polsten we tijdens de gebruikerstesten eens onze ideeen voor het communiceren van de data van de sensor. Onze verschillende ideeen voor real-time feeback bestonden uit
 <ul>
 <li>
-Gebruik van trillingen om de aandacht van de loper te hebben en dan iets communceren met geluid, display, ...
+Gebruik van trillingen om de aandacht van de loper te hebben en dan iets communceren met geluid, morse-code, display, ...
 </li>
 <li>
-Muziek dat communiceert wat je fout doet aan de hand van oortjes tijdens het lopen of kan ook een geluid zijn dat trager of lui
+Muziek dat communiceert wat je fout doet aan de hand van oortjes tijdens het lopen of kan ook een geluid zijn dat trager of luider komt tijdens het lopen
 </li>
 <li>
-
+Als je fout bezig bent begint er een lichtje te branden 
 </li>
-<li></li>
-<li></li>
+<li>
+als je fout loopt zal de sensor koude of warmte geven om de aandacht te trekken en dan iets te communiceren met morse-code, geluid, display, ...
+</li>
 </ul>
 </li>
 </ul>
