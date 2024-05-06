@@ -232,6 +232,10 @@ als je fout loopt zal de sensor koude of warmte geven om de aandacht te trekken 
 </ul>
 </li>
 </ul>
+<br>
+Enkele foto'tjes getrokken tijdens onze gebruikerstesten:
+
+
 
 ### Conclusies & implicaties
 Onze conclusies uit het maken van onze prototypes:
@@ -244,11 +248,15 @@ Gebruik maken van stof in plaats van papier en karton voor verbeteren comfort
 Onze conclusies uit de gebruikerstesten even opgelijst:
 <ul>
 <li>
-
+Voor de enkelband:
+<ul>
+<li>
+De communicatie met de gebruiker kan een stuk beter. <br> Zo leerden we dat ze niet precies wisten of ze de enkelband/enkelschijf boven of onder de kous moeten dragen. In theorioe is dit niet het grooste probleem zolang ze korte kousen dragen tijdens het lopen, maar als ze lange kousen dragen bevindt de sensor zich verder van het been en zullen de trillingen weer extra gecompenseerd zijn door de kousen. <br> Ook leerden we dat ze niet wisten aan welke voet/been ze de enkelband/enkelschijf moesten bevestigen 
+</li>
+</ul>
 </li>
 </ul>
 
-Uit het onderzoek van de define-fase hebben we besloten om een product te maken waarbij een sleeve gebruikt wordt, een soort kous die eventueel onder de normale kous kan worden gedragen. Waarin een “zakje” bevestigd is die groot genoeg is voor de sensor om in te rusten. Hierdoor is de bevestiging van de sensor op het scheenbeen goed en blijft deze heel stil zitten bij zware bewegingen tijdens het lopen. De manier van communicatie met de loper werkt als volgt: wanneer er een te hoge schok wordt gedetecteerd door de sensor zal er een signaal worden uitgestuurd naar de koptelefoon of sporthorloge. Dit zal een soort getik zijn in de koptelefoon of een lichtje in het horloge. Hoe sneller het lichtje of het getik, hoe slechter je techniek op dat moment; dan is het dus ook de bedoeling dat je stilaan je techniek veranderd met behulp van de tikjes of lichtjes. Als het minder snel wordt, dan weet je dat je de juiste richting uitgaat en je zo verder moet doen, moest het weer sneller worden dan weet je dat je weer iets fout doet. Als het getik/lichtje stopt. Dan heb je de ideale/juiste techniek terug aangenomen. Uiteraard is het dan voor jezelf belangrijk als loper dat je onthoud wat je juist veranderd hebt als het getik of lichtje trager wordt. Dan kan je rechtstreeks de link leggen met wat er verkeerd is met je looptechniek en dat onthouden voor de volgende keer.
 
 ## Bill of materials
 - sleeve material met anti-slip <br>
