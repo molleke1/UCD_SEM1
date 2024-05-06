@@ -306,7 +306,7 @@ Ons product bestaat uit 2 delen; de display en de sensor.<br>
 
 ## human senses
 Welke aanpassingen hebben we gemaakt op het vlak van sensoriële ergonomie?
-
+bij sensoriële
 
 
 ## Bronnen
