@@ -312,8 +312,20 @@ Met andere woorden gebruiken we de ontwerpstrategie: "Design for the small". Waa
 </li>
 <br>
 <li>
+<b>afstand van de ondervoet tot de enkel </b><i>(b)</i><br>
+Deze maat hebben we voledig zelf bepaald. Dit door aan mensen dat we kennen dat tussen de 20-60 jaar oud te vragen of we even de lengte van hun ondervoet tot aan de enkel mochten meten. Dit deden we met een simpele meetlat van 30 cm waarbij we de onderkant op de grond plaatsen en dan meten tot aan het midden van de enkel. (zie figuur) Het enige "probleem" was dat de meetlat een dunne omranding had van 5 mm en deze meetwaarde rekenden we er dan ook steeds bij. In het voorbeeld is de lengte dus niet 8 mm, maar 8,5 mm.
+
+![meten van enkels](https://github.com/molleke1/UCD_SEM1/assets/157485350/ca48c47c-177a-43f7-b492-8f887993c171)
+
+</li>
+<br>
+<li>
 <b>Omtrek van de pols</b> <i>(c)</i> <br>
 Deze maat was wederom niet duidelijk te vinden op de sites met antropometrische gegevens, dus besloten we de waarden van enkele horloge's die al op de markt zijn over te nemen. we hebben ook de maat van enkele 20-50 jarigen afgenomen en kunnen op die manier een bandje ontwerpen voor de pols die voor iedereen gebruikt kan worden. We hebben ook besloten om een riembandje <i>(een bandje met gaten die past voor meerdere gebruikers met verschillende maten)</i> te gebruiken in plaats van velcro. Dit omdat velcro niet zeer betrouwbaar is bij slechte weersomstandigheden zoals regen en zweet en onder hoge krachten bij het lopen. 
+</li>
+<br>
+<li>
+<b>Omtrek van de pols</b> <i>(c)</i> <br>
 </li>
 </ol>
 
