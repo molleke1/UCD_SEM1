@@ -307,16 +307,13 @@ Deze maat hebben we deels zelf bepaald. Zo heeft het groepje van Emile en Tom na
 De bekomen waarde is een goeie richtwaarde, maar niet super accuraat omdat we geen testen hebben gedaan met zwaarlijvige mensen, zeer lange mensen en etc. We richten ons echter op de "gemiddelde" mens waardoor we niet willen dat deze extreme waarden ons gemiddelde extreem beïnvloeden en laten we ze dan ook buiten beschouwing.<br>
 Met andere woorden gebruiken we de ontwerpstrategie: "Design for the small". Waarbij we de omtrek van de enkel pakken bij een magere/gemiddelde mens, maar door gebruik te maken van een elastische stof is het ook mogelijk om gedragen te worden door mensen met een grotere enkel. (zie foto's)
 
-![att 0hDQyWnlSRitMTkty5KIh2WdYTkQZPzQaLl1gEX3BkM](https://github.com/molleke1/UCD_SEM1/assets/157485350/59fa5fd4-9cd9-481d-9bb5-46560e7d304b)
-![att MJqCVSCGJTixBLsfaGp1-QsCByxwmviyE6Ysq2eMPds](https://github.com/molleke1/UCD_SEM1/assets/157485350/b83f6000-e57d-46f7-b557-9660faa3845d)
-
-<img src="file:///C:/Users/User/AppData/Local/Messenger/TamStorage/media_bank/AdvancedCrypto/100072903842818/persistent/att.0hDQyWnlSRitMTkty5KIh2WdYTkQZPzQaLl1gEX3BkM.jpg">
+![foto'tje](https://github.com/molleke1/UCD_SEM1/assets/157485350/da8ab8e7-96e1-4f98-a4f2-3cf5bb8cb221)
 
 </li>
 <br>
 <li>
 <b>Omtrek van de pols</b> <i>(c)</i> <br>
-Deze maat was wederom niet duidelijk te vinden op de sites met antropometrische gegevens, dus besloten we de waarden van enkele horloge's die al op de markt zijn over te nemen. we hebben ook de maat van enkele 20-50 jarigen afgenomen en kunnen op die manier een bandje ontwerpen voor de pols die voor iedereen gebruikt kan worden. we hebben ook besloten om een riembandje <i>(een bandje met gaten die past voor meerdere gebruikers met verschillende maten)</i> te gebruiken in plaats van velcro. Dit omdat velcro niet zeer betrouwbaar is bij slechte weersomstandigheden zoals regen en zweet en onder hoge krachten bij het lopen. 
+Deze maat was wederom niet duidelijk te vinden op de sites met antropometrische gegevens, dus besloten we de waarden van enkele horloge's die al op de markt zijn over te nemen. we hebben ook de maat van enkele 20-50 jarigen afgenomen en kunnen op die manier een bandje ontwerpen voor de pols die voor iedereen gebruikt kan worden. We hebben ook besloten om een riembandje <i>(een bandje met gaten die past voor meerdere gebruikers met verschillende maten)</i> te gebruiken in plaats van velcro. Dit omdat velcro niet zeer betrouwbaar is bij slechte weersomstandigheden zoals regen en zweet en onder hoge krachten bij het lopen. 
 </li>
 </ol>
 
