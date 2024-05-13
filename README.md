@@ -241,7 +241,7 @@ Enkele foto'tjes getrokken tijdens onze gebruikerstesten:
 Onze conclusies uit het maken van onze prototypes:
 <ul>
 <li>
-Gebruik maken van stof in plaats van papier en karton voor verbeteren comfort
+Gebruik maken van stof in plaats van papier en karton voor verbeteren comfort.
 </li>
 </ul>
 <br>
@@ -254,9 +254,15 @@ Voor de enkelband:
 <b>De communicatie met de gebruiker kan een stuk beter.</b> <br> Zo leerden we dat ze niet precies wisten of ze de enkelband/enkelschijf boven of onder de kous moeten dragen. In theorioe is dit niet het grooste probleem zolang ze korte kousen dragen tijdens het lopen, maar als ze lange kousen dragen bevindt de sensor zich verder van het been en zullen de trillingen weer extra gecompenseerd zijn door de kousen. <br> Ook leerden we dat ze niet wisten aan welke voet/been ze de enkelband/enkelschijf moesten bevestigen. Een goed idee zou dus te werken zijn met een L en een R aan de enkel om zo de juiste positie van de sensor te kunnen geranderen. (figuur hieronder geeft de juiste positie aan, aan de buitenkant van het been)
 
 ![mevrouw+sensor](https://github.com/molleke1/UCD_SEM1/assets/157485350/17815a3a-0ae8-4404-af78-5e3192b46612)
- 
+</li>
+<li>
+<b>Keuze prototypes</b><br> Onze gebruikers vonden het enkelband systeem een stuk beter dan het enkelring systeem. Dit omdat er veel meer onduidelijkheid was met het enkelringsysteem. Ze wisten namelijk niet voor wat de ring diende of waar ze deze precies rond moesten bevestigen. We hebben er dan ook voor gekozen om verder te werken met prototype 2, het enkelband systeem.
 </li>
 </ul>
+</li>
+<li>
+Voor de real-time feedback:
+Hiervoor kregen we een beetje dubbele 'commentaar'. Zo vroegen de potentiele gebruikers (de geinterviewden) dat wat je fout deed duidelijk moest worden vermeld op de display of met muziek en dat er ook een goeie oplossing moest worden aangeboden. Aan de andere kant vroegen ze dan ook weer voor een korte en duidelijke boodschap. We hebben hieruit dan geconcludeerd dat het slimmer zou zijn enkele prototypes te maken en dit dan voor te leggen zodat we duidelijker kunnen weten wat echt belangrijk is. <br> Wat we wel uit de testen hebben gehaald is dat de mensen <b>liever een display</b> zouden hebben dan geluid of warmte veranderingen.
 </li>
 </ul>
 
