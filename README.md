@@ -376,6 +376,9 @@ Bij sensoriële ergonomie hebben we onze aandacht gelegd op het horloge aangezie
          <ul> <li>  Bij de eenvoudige weergave werken we aan de hand van kleuren. Aangezien mensen automatisch de kleuren groen, oranje en rood koppelen met resp. goed, gemiddeld en slecht, merken we dat alleen de kleuren al voldoende zouden zijn bij meeste gevallen. Hoewel, oranje en rood kunnen zowel versnellen als vertragen betekenen, én kleurenblinde mensen zouden uitgesloten worden. Dus wordt naast de kleur ook een eenvoudig symbool getoond als ondersteuning van de overheersende kleur.</li> <li>  De uitgebreide weergave is dan precies wat je zou verwachten; een display waarop meer informatie wordt meegegeven, zoals hartslag en snelheid, maar ook de waarde van de impact op het scheenbeen. Dit is natuurlijk uitsluitend voor de mensen die niet enkel gefocust zijn op het verbeteren van de looptechniek.</li> </ul>
       </li>
    </ul>
+   ![download](https://github.com/molleke1/UCD_SEM1/assets/154930366/0fef7140-cd9c-41fd-a709-34af47617e49)
+
+   
    <li>
       Het signaal
    </li>
