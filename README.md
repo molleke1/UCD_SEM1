@@ -373,10 +373,13 @@ Bij sensoriële ergonomie hebben we onze aandacht gelegd op het horloge aangezie
    <ul>
       <li>
          Het display waarop de data wordt weergegeven heeft 2 standen: eenvoudig of uitgebreid.
-         <ul> <li>  Bij de eenvoudige weergave werken we aan de hand van kleuren. Aangezien mensen automatisch de kleuren groen, oranje en rood koppelen met resp. goed, gemiddeld en slecht, merken we dat alleen de kleuren al voldoende zouden zijn bij meeste gevallen. Hoewel, oranje en rood kunnen zowel versnellen als vertragen betekenen, én kleurenblinde mensen zouden uitgesloten worden. Dus wordt naast de kleur ook een eenvoudig symbool getoond als ondersteuning van de overheersende kleur.</li> <li>  De uitgebreide weergave is dan precies wat je zou verwachten; een display waarop meer informatie wordt meegegeven, zoals hartslag en snelheid, maar ook de waarde van de impact op het scheenbeen. Dit is natuurlijk uitsluitend voor de mensen die niet enkel gefocust zijn op het verbeteren van de looptechniek.</li> </ul>
-      </li>
+         <ul> <li>  Bij de eenvoudige weergave werken we aan de hand van kleuren. Aangezien mensen automatisch de kleuren groen, oranje en rood koppelen met resp. goed, gemiddeld en slecht, merken we dat alleen de kleuren al voldoende zouden zijn bij meeste gevallen. Hoewel, oranje en rood kunnen zowel versnellen als vertragen betekenen, én kleurenblinde mensen zouden uitgesloten worden. Dus wordt naast de kleur ook een eenvoudig symbool getoond als ondersteuning van de overheersende kleur.</li> <li>  De uitgebreide weergave is dan precies wat je zou verwachten; een display waarop meer informatie wordt meegegeven, zoals hartslag en snelheid, maar ook de waarde van de impact op het scheenbeen. Dit is natuurlijk uitsluitend voor de mensen die niet enkel gefocust zijn op het verbeteren van de looptechniek.</li> </ul>   
+         
+![30b82081-944d-46df-a0b6-216c2c570a03](https://github.com/molleke1/UCD_SEM1/assets/154930366/cfe56b37-30d1-43b5-a255-802f4c979f8a)
+  
+
+ </li>
    </ul>
-   ![download](https://github.com/molleke1/UCD_SEM1/assets/154930366/0fef7140-cd9c-41fd-a709-34af47617e49)
 
    
    <li>
