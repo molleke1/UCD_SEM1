@@ -307,7 +307,9 @@ Deze maat hebben we deels zelf bepaald. Zo heeft het groepje van Emile en Tom na
 De bekomen waarde is een goeie richtwaarde, maar niet super accuraat omdat we geen testen hebben gedaan met zwaarlijvige mensen, zeer lange mensen en etc. We richten ons echter op de "gemiddelde" mens waardoor we niet willen dat deze extreme waarden ons gemiddelde extreem beïnvloeden en laten we ze dan ook buiten beschouwing.<br>
 Met andere woorden gebruiken we de ontwerpstrategie: "Design for the small". Waarbij we de omtrek van de enkel pakken bij een magere/gemiddelde mens, maar door gebruik te maken van een elastische stof is het ook mogelijk om gedragen te worden door mensen met een grotere enkel. (zie foto's)
 
-<img src="[https://github.com/molleke1/UCD_SEM1/assets/157485350/59fa5fd4-9cd9-481d-9bb5-46560e7d304b]" width="100">
+![att 0hDQyWnlSRitMTkty5KIh2WdYTkQZPzQaLl1gEX3BkM](https://github.com/molleke1/UCD_SEM1/assets/157485350/59fa5fd4-9cd9-481d-9bb5-46560e7d304b | width=200)
+![att MJqCVSCGJTixBLsfaGp1-QsCByxwmviyE6Ysq2eMPds](https://github.com/molleke1/UCD_SEM1/assets/157485350/b83f6000-e57d-46f7-b557-9660faa3845d)
+
 
 </li>
 <br>
