@@ -303,11 +303,11 @@ Bij het opzoeken van de vernoemde waarden (a,b,c,d) in antropometrische database
 <ol>
 <li>
 <b>Omtrek van de enkel</b> <i>(a)</i><br>
-Deze maat hebben we deels zelf bepaald. Zo heeft het groepje van Emile en Tom namelijk van een groot deel van onze klas (waaronder wij zelf) de omtrek gemeten rond de enkel en dit dan doorgestuurd naar iedereen die werkt rond 'sport en tech'. Deze waarden waren echter allemaal van 20-25 jarigen. Aangezien onze doelgroep 20-60 jarigen zijn passen deze daar net in. Om te controleren of een oudere leeftijd nog veel verschil heeft op de omtrek van de enkel hebben we enkele 40-50 jarigen getest. Om dit te kunnen testen hebben we onze eigen flexibele meter gecreerd uit ductape aangezien geen van ons beide een thuis had liggen. Onze ondervindingen hierbij waren dat deze juiste dezelfde waarden hadden zoals de 20-25 jarigen en het leeftijdsverschil dus geen zo'n grote invloed had. Al deze waarden hebben we dan in excel geplaatst en hiervan het gemiddelde en de variantie bepaald. <br>
+Deze maat hebben we maar deels zelf bepaald. Zo heeft het groepje van Emile en Tom namelijk van een groot deel van onze klas (waaronder wij zelf) de omtrek gemeten rond de enkel en dit dan doorgestuurd naar iedereen die werkt rond 'sport en tech'. Deze waarden waren echter allemaal van 20-25 jarigen. Aangezien onze doelgroep 20-60 jarigen zijn passen deze daar net in. Om te controleren of een oudere leeftijd nog veel verschil heeft op de omtrek van de enkel hebben we enkele 40-50 jarigen getest. Om dit te kunnen testen hebben we onze eigen flexibele meter gecreerd uit ductape aangezien geen van ons beide een thuis had liggen. Onze ondervindingen hierbij waren dat deze juiste dezelfde waarden hadden zoals de 20-25 jarigen en het leeftijdsverschil dus geen zo'n grote invloed had. Al deze waarden hebben we dan in excel geplaatst en hiervan het gemiddelde en de variantie bepaald. <br>
 De bekomen waarde is een goeie richtwaarde, maar niet super accuraat omdat we geen testen hebben gedaan met zwaarlijvige mensen, zeer lange mensen en etc. We richten ons echter op de "gemiddelde" mens waardoor we niet willen dat deze extreme waarden ons gemiddelde extreem beïnvloeden en laten we ze dan ook buiten beschouwing.<br>
 Met andere woorden gebruiken we de ontwerpstrategie: "Design for the small". Waarbij we de omtrek van de enkel pakken bij een magere/gemiddelde mens, maar door gebruik te maken van een elastische stof is het ook mogelijk om gedragen te worden door mensen met een grotere enkel. (zie foto's)
 
-![foto'tje](https://github.com/molleke1/UCD_SEM1/assets/157485350/da8ab8e7-96e1-4f98-a4f2-3cf5bb8cb221)
+![foto'tje](https://github.com/molleke1/UCD_SEM1/assets/157485350/5d944014-5d44-4d6a-a030-3d168d5f8857)
 
 </li>
 <br>
@@ -320,12 +320,29 @@ Deze maat hebben we voledig zelf bepaald. Dit door aan mensen dat we kennen dat 
 </li>
 <br>
 <li>
-<b>Omtrek van de pols</b> <i>(c)</i> <br>
-Deze maat was wederom niet duidelijk te vinden op de sites met antropometrische gegevens, dus besloten we de waarden van enkele horloge's die al op de markt zijn over te nemen. we hebben ook de maat van enkele 20-50 jarigen afgenomen en kunnen op die manier een bandje ontwerpen voor de pols die voor iedereen gebruikt kan worden. We hebben ook besloten om een riembandje <i>(een bandje met gaten die past voor meerdere gebruikers met verschillende maten)</i> te gebruiken in plaats van velcro. Dit omdat velcro niet zeer betrouwbaar is bij slechte weersomstandigheden zoals regen en zweet en onder hoge krachten bij het lopen. 
-</li>
-<br>
+<b>Omtrek en breedte van de pols</b> <i>(c,d)</i> <br>
+Deze maten waren wederom niet duidelijk te vinden op de sites met antropometrische gegevens, dus besloten we de waarden van enkele horloge's die al op de markt zijn over te nemen. Voor de diameter van de display besloten we de gemiddelde waarde en variantie te bepalen van verscheidene horloges. De breedte van de display hebben we dan bepaald door het minimum en maximum te nemen van de gevonden lengtes van verschillende horloges. Dit omdat de lengte van horloge's veel moeilijker te vinden waren dan de breedte van de display. De resultaten van ons onderzoek kan je vinden in volgende figuur.
+
+![excel bepalen horloge breedte, hoogte en lengte](https://github.com/molleke1/UCD_SEM1/assets/157485350/ded8aea3-8d43-4dca-837b-59f7b14df61d)
+
+<ul>
 <li>
-<b>Omtrek van de pols</b> <i>(c)</i> <br>
+De diameter van de display is 4,1 cm
+</li>
+<li> 
+De lengte van de band is 21 cm en de gaatjes/velcro begint vanaf 13 cm
+</li>
+</ul>
+</li>
+</ol>
+<br>
+Onze aanpassingen na de antropometrische test zijn:
+<ol>
+<li>
+<b>Op vlak van de horloge</b><br>
+Eerste hadden we ons prototypes gemaakt met willekeurige breedte en lengte, maar na het antropometrisch onderzoek hebben we deze aangepast. Zo hebben we een diameter genomen van 4,1 cm en hebben we een bandje gemaakt met een lengte van 21 cm en een velcrolatje tot 13 cm van het einde. We hadden liever gewerkt met een riemsysteem (verschillende gaatjes die je de mogelijkheid bieden om aan te spannen), maar dit zou te veel werk kosten voor te creeren voor maar een prototype. Eén van de redenen waarom we liever voor het riemsysteem zouden gaan is dat het beter bestand is tegen regen/ zweet en veel beter zal blijven zitten/hangen tijdens het lopen. 
+
+foto met oud prototype en nieuw prototype en een zeer klein foto'tje met foto riemsysteem naar band nieuw prototype
 </li>
 </ol>
 
