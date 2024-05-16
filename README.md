@@ -260,8 +260,9 @@ Voor de enkelband:
 </li>
 </ul>
 </li>
+<br>
 <li>
-Voor de real-time feedback:
+Voor de real-time feedback:<br>
 Hiervoor kregen we een beetje dubbele 'commentaar'. Zo vroegen de potentiele gebruikers (de geinterviewden) dat wat je fout deed duidelijk moest worden vermeld op de display of met muziek en dat er ook een goeie oplossing moest worden aangeboden. Aan de andere kant vroegen ze dan ook weer voor een korte en duidelijke boodschap. We hebben hieruit dan geconcludeerd dat het slimmer zou zijn enkele prototypes te maken en dit dan voor te leggen zodat we duidelijker kunnen weten wat echt belangrijk is. <br> Wat we wel uit de testen hebben gehaald is dat de mensen <b>liever een display</b> zouden hebben dan geluid of warmte veranderingen.
 </li>
 </ul>
