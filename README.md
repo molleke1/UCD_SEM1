@@ -350,7 +350,7 @@ De variantie is
 </ul>
 Ook hier zijn de bekomen waarden een goeie richtwaarde, maar niet super accuraat. We hebben namelijk geen testen hebben gedaan met zwaarlijvige mensen, zeer lange mensen en etc. We richten ons voor deze proef echter op de "gemiddelde" mens waardoor we niet willen dat deze extreme waarden ons gemiddelde extreem beïnvloeden en laten we ze dan ook buiten beschouwing.<br><br>
 <b>Wat verandert dit nu aan ons product?</b><br>
-Ook hier gaan we verder met het designen for the small en nemen we een kleine waarde voor de lengte van de ondervoet tot enkel. Deze waarde hebben we nodig voor het creeren van onze enkelband. In dat geval zullen we de bekomen waarde ... vermenigvuldigen met 2 en optellen met 6 cm**. Hiervan nemen we dan het verschil met de lengte van de band zelf tot de enkel en zo weten we precies hoe lang onze elastische band moet zijn voor de enkelband. 
+Ook hier gaan we verder met het designen for the small en nemen we een kleine waarde voor de lengte van de ondervoet tot enkel. Deze waarde hebben we nodig voor het creeren van onze enkelband. In dat geval zullen we de bekomen waarde ... vermenigvuldigen met 2 en optellen met 6 cm**. Hiervan nemen we dan het verschil met de lengte van de band zelf tot de enkel en zo weten we precies hoe lang onze elastische band moet zijn voor de enkelband. In osn geval is de ideale lengte <b>...</b>.
 
 ![design for the small enkelband samen](https://github.com/molleke1/UCD_SEM1/assets/157485350/ee97c3c8-6674-48d9-9b03-77280a063cc1)
 
