@@ -17,7 +17,9 @@ Het probleem kan als volgt worden gedefinieerd: hardlopen is een zeer blessurege
 
 
 ## Methodologie
-![image](https://github.com/molleke1/UCD_SEM1/assets/154930366/3c7d9485-02ea-4e9f-af9f-7c4848a09963)
+
+![methode](https://github.com/molleke1/UCD_SEM1/assets/157485350/115a10eb-f904-47a5-9d48-a708b1eb4f7c)
+
 <b>Fase 1</b> </br>
 <ins>stap 1:</ins> </br>
 Reseacrch over welke blessures het gevolg zijn van lopen, wie onze potentiële doelgroep is, hoe de studie van Victoris tot nu toe gaat (Victoris, z.d.).
