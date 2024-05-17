@@ -306,7 +306,7 @@ Bij het opzoeken van de vernoemde waarden (a,b,c,d) in antropometrische database
 <b>Omtrek van de enkel</b> <i>(a)</i><br>
 Deze maat hebben we maar deels zelf bepaald. Zo heeft het groepje van Emile en Tom namelijk van een groot deel van onze klas (waaronder wij zelf) de omtrek gemeten rond de enkel en dit dan doorgestuurd naar iedereen die werkt rond 'sport en tech'. Deze waarden waren echter allemaal van 20-25 jarigen. Aangezien onze doelgroep 20-60 jarigen zijn passen deze daar net in. Om te controleren of een oudere leeftijd nog veel verschil heeft in omtrek van de enkel hebben we enkele 40-60 jarigen getest. Onze ondervindingen hierbij waren dat deze juiste dezelfde waarden hadden zoals de 20-25 jarigen en het leeftijdsverschil dus geen zo'n grote invloed had. Al deze waarden hebben we dan in excel geplaatst en hiervan het gemiddelde en de variantie bepaald. <br>
 
-![excel bepalen OMTREK ENKEL](https://github.com/molleke1/UCD_SEM1/assets/157485350/f6ce2746-a031-4f7e-8a29-ee6f1b23e8b8)
+![foto'tje bij omtrek enkel](https://github.com/molleke1/UCD_SEM1/assets/157485350/1a4b2118-0309-42ad-9bdc-70271a3ddbd0)
 
 <br>
 De bekomen waarden:
@@ -325,9 +325,6 @@ De ideale omtrek van de enkelband zou 18,70 mm zijn. Dit omdat we disignen for t
 ![foto'tje](https://github.com/molleke1/UCD_SEM1/assets/157485350/5d944014-5d44-4d6a-a030-3d168d5f8857)
 <br>
 We werken echter met een sleeve die al een omtrek heeft van 19,85 mm. We kunnen deze waarde nog 1 mm naar beneden doen, maar we hebben besloten om het zo te laten. Dit omdat we anders een groot deel van het comfort zouden wegnemen door ons het opnieuw aan elkaar te laten naaien.
-
-
-
 </li>
 <br>
 <li>
@@ -335,7 +332,32 @@ We werken echter met een sleeve die al een omtrek heeft van 19,85 mm. We kunnen 
 Deze maat hebben we voledig zelf bepaald. Dit door aan mensen dat we kennen dat tussen de 20-60 jaar oud te vragen of we even de lengte van hun ondervoet tot aan de enkel mochten meten. Dit deden we met een simpele meetlat van 30 cm waarbij we de onderkant op de grond plaatsen en dan meten tot aan het midden van de enkel. (zie figuur) Het enige "probleem" was dat de meetlat een dunne omranding had van 5 mm en deze meetwaarde rekenden we er dan ook steeds bij. In het voorbeeld is de lengte dus niet 8 mm, maar 8,5 mm.
 
 ![meten van enkels](https://github.com/molleke1/UCD_SEM1/assets/157485350/ca48c47c-177a-43f7-b492-8f887993c171)
+<br>
+Al deze waarden hebben we dan opgesomd in een excel samen met de leeftijd en geslacht. Deze waarden geslacht en leeftijd zijn in feite niet belangrijk, maar wel eens intressant. Zo zie je dat de mannen vaak een grotere afstand hebben van enkel tot ondervoet dan de vrouwen (misschien hint/idee dat we best het product ontwerpen voor mannen en vrouwen apart?). Op leeftijd valt er niet zo veel te vertellen of zijn er geen zaken dat echt uitspringen. Weer ter zake, de bekomen waarden hebben we dan allemaal geplaatst in een excel en net zoals voorheen het gemiddelde en de variantie bepaald.
+<br>
+<br>
+foto'tje excel bestand
+<br>
+<br>
+De bekomen waarden:
+<ul>
+<li>
+De gemiddelde lengte van ondervoet tot enkel is 
+</li>
+<li>
+De variantie is 
+</li>
+</ul>
+Ook hier zijn de bekomen waarden een goeie richtwaarde, maar niet super accuraat. We hebben namelijk geen testen hebben gedaan met zwaarlijvige mensen, zeer lange mensen en etc. We richten ons voor deze proef echter op de "gemiddelde" mens waardoor we niet willen dat deze extreme waarden ons gemiddelde extreem beïnvloeden en laten we ze dan ook buiten beschouwing.<br><br>
+<b>Wat verandert dit nu aan ons product?</b><br>
+Ook hier gaan we verder met het designen for the small en nemen we een kleine waarde voor de lengte van de ondervoet tot enkel. Deze waarde hebben we nodig voor het creeren van onze enkelband. In dat geval zullen we de bekomen waarde ... vermenigvuldigen met 2 en optellen met 6 cm**. Hiervan nemen we dan het verschil met de lengte van de band zelf tot de enkel en zo weten we precies hoe lang onze elastische band moet zijn voor de enkelband. 
 
+![design for the small enkelband samen](https://github.com/molleke1/UCD_SEM1/assets/157485350/ee97c3c8-6674-48d9-9b03-77280a063cc1)
+
+**<br>
+Deze 6 cm stelt de breedte voor van de ondervoet ter hoogte van de enkel (zie figuur). Hierbij hebben we de fout gemaakt om deze waarde niet te bepalen met behulp van antropometrie. Deze valt namelijk ook in geen één database terug te vindenen en hadden we dus ook graag zelf bepaald zoals de andere twee waarden. We hebben deze fout echter maar ontdekt toen we de lengte van de band wilden bepalen en toen waren onze antropometrische testen al gedaan. Vandaar dat we de waarde dan gewoon hebben aangenomen als 6 cm. Dit omdat die van Daan 7 cm is en dan 1 cm kleiner omdat we designen for the small.
+
+![voeten breedte enkel](https://github.com/molleke1/UCD_SEM1/assets/157485350/a6ef3ca3-5722-4855-b755-08ab678b909d)
 </li>
 <br>
 <li>
