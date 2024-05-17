@@ -304,11 +304,29 @@ Bij het opzoeken van de vernoemde waarden (a,b,c,d) in antropometrische database
 <ol>
 <li>
 <b>Omtrek van de enkel</b> <i>(a)</i><br>
-Deze maat hebben we maar deels zelf bepaald. Zo heeft het groepje van Emile en Tom namelijk van een groot deel van onze klas (waaronder wij zelf) de omtrek gemeten rond de enkel en dit dan doorgestuurd naar iedereen die werkt rond 'sport en tech'. Deze waarden waren echter allemaal van 20-25 jarigen. Aangezien onze doelgroep 20-60 jarigen zijn passen deze daar net in. Om te controleren of een oudere leeftijd nog veel verschil heeft in omtrek van de enkel hebben we enkele 40-50 jarigen getest. Onze ondervindingen hierbij waren dat deze juiste dezelfde waarden hadden zoals de 20-25 jarigen en het leeftijdsverschil dus geen zo'n grote invloed had. Al deze waarden hebben we dan in excel geplaatst en hiervan het gemiddelde en de variantie bepaald. <br>
-De bekomen waarde is een goeie richtwaarde, maar niet super accuraat omdat we geen testen hebben gedaan met zwaarlijvige mensen, zeer lange mensen en etc. We richten ons echter op de "gemiddelde" mens waardoor we niet willen dat deze extreme waarden ons gemiddelde extreem beïnvloeden en laten we ze dan ook buiten beschouwing.<br>
-Met andere woorden gebruiken we de ontwerpstrategie: "Design for the small". Waarbij we de omtrek van de enkel pakken bij een magere/gemiddelde mens, maar door gebruik te maken van een elastische stof is het ook mogelijk om gedragen te worden door mensen met een grotere enkel. (zie foto's)
+Deze maat hebben we maar deels zelf bepaald. Zo heeft het groepje van Emile en Tom namelijk van een groot deel van onze klas (waaronder wij zelf) de omtrek gemeten rond de enkel en dit dan doorgestuurd naar iedereen die werkt rond 'sport en tech'. Deze waarden waren echter allemaal van 20-25 jarigen. Aangezien onze doelgroep 20-60 jarigen zijn passen deze daar net in. Om te controleren of een oudere leeftijd nog veel verschil heeft in omtrek van de enkel hebben we enkele 40-60 jarigen getest. Onze ondervindingen hierbij waren dat deze juiste dezelfde waarden hadden zoals de 20-25 jarigen en het leeftijdsverschil dus geen zo'n grote invloed had. Al deze waarden hebben we dan in excel geplaatst en hiervan het gemiddelde en de variantie bepaald. <br>
+
+![excel bepalen OMTREK ENKEL](https://github.com/molleke1/UCD_SEM1/assets/157485350/f6ce2746-a031-4f7e-8a29-ee6f1b23e8b8)
+
+<br>
+De bekomen waarden:
+<ul>
+<li>
+De gemiddelde omtrek van de enkel is 22,84 mm
+</li>
+<li>
+De variantie is 4,14 mm
+</li>
+</ul>
+De bekomen waarden zijn een goeie richtwaarde, maar niet super accuraat. We hebben namelijk geen testen hebben gedaan met zwaarlijvige mensen, zeer lange mensen en etc. We richten ons voor deze proef echter op de "gemiddelde" mens waardoor we niet willen dat deze extreme waarden ons gemiddelde extreem beïnvloeden en laten we ze dan ook buiten beschouwing.<br>
+<b>Wat verandert dit nu aan ons product?</b><br>
+De ideale omtrek van de enkelband zou 18,70 mm zijn. Dit omdat we disignen for the small. Waarbij we de omtrek van de enkel pakken bij een magere/gemiddelde mens, maar door gebruik te maken van een elastische stof is het ook mogelijk om gedragen te worden door mensen met een grotere enkel. (zie foto) 
 
 ![foto'tje](https://github.com/molleke1/UCD_SEM1/assets/157485350/5d944014-5d44-4d6a-a030-3d168d5f8857)
+<br>
+We werken echter met een sleeve die al een omtrek heeft van 19,85 mm. We kunnen deze waarde nog 1 mm naar beneden doen, maar we hebben besloten om het zo te laten. Dit omdat we anders een groot deel van het comfort zouden wegnemen door ons te het opnieuw aan elkaar te laten naaien.
+
+
 
 </li>
 <br>
