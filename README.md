@@ -318,7 +318,7 @@ De gemiddelde omtrek van de enkel is 22,84 mm
 De variantie is 4,14 mm
 </li>
 </ul>
-De bekomen waarden zijn een goeie richtwaarde, maar niet super accuraat. We hebben namelijk geen testen hebben gedaan met zwaarlijvige mensen, zeer lange mensen en etc. We richten ons voor deze proef echter op de "gemiddelde" mens waardoor we niet willen dat deze extreme waarden ons gemiddelde extreem beïnvloeden en laten we ze dan ook buiten beschouwing.<br>
+De bekomen waarden zijn een goeie richtwaarde, maar niet super accuraat. We hebben namelijk geen testen hebben gedaan met zwaarlijvige mensen, zeer lange mensen en etc. We richten ons voor deze proef echter op de "gemiddelde" mens waardoor we niet willen dat deze extreme waarden ons gemiddelde extreem beïnvloeden en laten we ze dan ook buiten beschouwing.<br><br>
 <b>Wat verandert dit nu aan ons product?</b><br>
 De ideale omtrek van de enkelband zou 18,70 mm zijn. Dit omdat we disignen for the small. Waarbij we de omtrek van de enkel pakken bij een magere/gemiddelde mens, maar door gebruik te maken van een elastische stof is het ook mogelijk om gedragen te worden door mensen met een grotere enkel. (zie foto) 
 
