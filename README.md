@@ -194,8 +194,7 @@ We hebben gebruik gemaakt van verschilledne manieren/methoden om onze conclusies
 Door onze prototypes zelf te maken kregen we een zeer goed idee van wat allemaal mogelijk was.<br>
 Zo ontdekten we al zeer snel dat we onze prototypes beter niet maakten uit karton en/of plastiek. Op de figuur zie je een voorbeeld hiervan en ik kan met zekerheid zeggen dat deze niet zo comfortabel zaten. Comfort is niet het belangrijkste van ons product, maar speelt wel een belangrijke rol in hoe de gebruiker het product ervaren. Het best zou zijn om over te stappen naar stoffen prototypes.
 
-![enkelhanger2](https://github.com/molleke1/UCD_SEM1/assets/157485350/4f03d200-8d18-471f-a0a5-c02d2012ac1b)
-![enkelband2](https://github.com/molleke1/UCD_SEM1/assets/157485350/319d3289-a077-4636-ad7f-09de94892743)
+![enkelband en enkelring](https://github.com/molleke1/UCD_SEM1/assets/157485350/24126007-5fa0-4f7d-ba05-ea3017b03ac2)
 
 <br>
 </li>
