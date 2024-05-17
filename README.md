@@ -324,7 +324,7 @@ De ideale omtrek van de enkelband zou 18,70 mm zijn. Dit omdat we disignen for t
 
 ![foto'tje](https://github.com/molleke1/UCD_SEM1/assets/157485350/5d944014-5d44-4d6a-a030-3d168d5f8857)
 <br>
-We werken echter met een sleeve die al een omtrek heeft van 19,85 mm. We kunnen deze waarde nog 1 mm naar beneden doen, maar we hebben besloten om het zo te laten. Dit omdat we anders een groot deel van het comfort zouden wegnemen door ons te het opnieuw aan elkaar te laten naaien.
+We werken echter met een sleeve die al een omtrek heeft van 19,85 mm. We kunnen deze waarde nog 1 mm naar beneden doen, maar we hebben besloten om het zo te laten. Dit omdat we anders een groot deel van het comfort zouden wegnemen door ons het opnieuw aan elkaar te laten naaien.
 
 
 
