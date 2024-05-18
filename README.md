@@ -316,14 +316,14 @@ De bekomen waarden:
 De gemiddelde omtrek van de enkel is 22,84 mm
 </li>
 <li>
-De variantie is 4,14 mm
+De variantie is 2.03 mm
 </li>
 </ul>
 De bekomen waarden zijn een goeie richtwaarde, maar niet super accuraat. We hebben namelijk geen testen hebben gedaan met zwaarlijvige mensen, zeer lange mensen en etc. We richten ons voor deze proef echter op de "gemiddelde" mens waardoor we niet willen dat deze extreme waarden ons gemiddelde extreem beïnvloeden en laten we ze dan ook buiten beschouwing.<br><br>
 <b>Wat verandert dit nu aan ons product?</b><br>
 De ideale omtrek van de enkelband zou 18,70 mm zijn. Dit omdat we disignen for the small. Waarbij we de omtrek van de enkel pakken bij een magere/gemiddelde mens, maar door gebruik te maken van een elastische stof is het ook mogelijk om gedragen te worden door mensen met een grotere enkel. (zie foto) 
 
-![foto'tje](https://github.com/molleke1/UCD_SEM1/assets/157485350/5d944014-5d44-4d6a-a030-3d168d5f8857)
+![foto'tje design for small omtrek enkel](https://github.com/molleke1/UCD_SEM1/assets/157485350/3de6c796-6678-4a78-b4d7-ec0b48c8c6b2)
 <br>
 We werken echter met een sleeve die al een omtrek heeft van 19,85 mm. We kunnen deze waarde nog 1 mm naar beneden doen, maar we hebben besloten om het zo te laten. Dit omdat we anders een groot deel van het comfort zouden wegnemen door ons het opnieuw aan elkaar te laten naaien.
 </li>
@@ -336,9 +336,7 @@ Deze maat hebben we voledig zelf bepaald. Dit door aan mensen dat we kennen dat 
 <br>
 Al deze waarden hebben we dan opgesomd in een excel samen met de leeftijd en geslacht. Deze waarden geslacht en leeftijd zijn in feite niet belangrijk, maar wel eens intressant. Zo zie je dat de mannen vaak een grotere afstand hebben van enkel tot ondervoet dan de vrouwen (misschien hint/idee dat we best het product ontwerpen voor mannen en vrouwen apart?). Op leeftijd valt er niet zo veel te vertellen of zijn er geen zaken dat echt uitspringen. Weer ter zake, de bekomen waarden hebben we dan allemaal geplaatst in een excel en net zoals voorheen het gemiddelde, variantie, maximum en minimum bepaald.
 
-![excel bepalen enkelhoogte](https://github.com/molleke1/UCD_SEM1/assets/157485350/a9154246-7ee7-416a-af32-fdd0bc781ce1)
-
-<br>
+![excel bepalen enkelhoogte](https://github.com/molleke1/UCD_SEM1/assets/157485350/afa3fe7c-fdf2-4c65-9b93-69b792a89f61)
 <br>
 De bekomen waarden:
 <ul>
@@ -346,7 +344,7 @@ De bekomen waarden:
 De gemiddelde lengte van ondervoet tot enkel is 9 cm
 </li>
 <li>
-De variantie is 0.83 cm
+De variantie is 0.91 cm
 </li>
 <li>
 Het maximum is 7.5 cm
@@ -357,9 +355,9 @@ Het minimum is 10,5 cm
 </ul>
 Ook hier zijn de bekomen waarden een goeie richtwaarde, maar niet super accuraat. We hebben namelijk geen testen hebben gedaan met zwaarlijvige mensen, zeer lange mensen en etc. We richten ons voor deze proef echter op de "gemiddelde" mens waardoor we niet willen dat deze extreme waarden ons gemiddelde extreem beïnvloeden en laten we ze dan ook buiten beschouwing.<br><br>
 <b>Wat verandert dit nu aan ons product?</b><br>
-Ook hier gaan we verder met het designen for the small en nemen we een "kleine" waarde voor de lengte van de ondervoet tot enkel. Deze waarde berekende we als volgt. 
+Ook hier gaan we verder met het designen for the small en nemen we een "kleine" waarde voor de lengte van de ondervoet tot enkel. Deze waarde berekende we als volgt. Hierbij designen we voor 97,7% van de bevolking waarbij we de echt super kleine waardes van enkel tot ondervoet buiten beschouwing laten.
 
-![berekening 2](https://github.com/molleke1/UCD_SEM1/assets/157485350/109fdfd6-fea3-4252-b3a2-5cb4f497fe40)
+![berekening 2](https://github.com/molleke1/UCD_SEM1/assets/157485350/72d390f9-8b32-48ab-a1bc-9a8cd3ec6afd)
 <br>
 In dat geval zullen we de bekomen waarde 7.33 cm vermenigvuldigen met 2 en optellen met 6 cm**. Hiervan nemen we dan het verschil met de lengte van de band zelf tot de enkel en zo weten we precies hoe lang onze elastische band moet zijn voor de enkelband. In osn geval is de ideale lengte <b>13.26 cm</b>.
 
