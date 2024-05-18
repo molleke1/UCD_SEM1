@@ -372,7 +372,7 @@ Deze 6 cm stelt de breedte voor van de ondervoet ter hoogte van de enkel (zie fi
 <br>
 <li>
 <b>Omtrek en breedte van de pols</b> <i>(c,d)</i> <br>
-Deze maten waren wederom niet duidelijk te vinden op de sites met antropometrische gegevens, dus besloten we de waarden van enkele horloge's die al op de markt zijn over te nemen. Voor de diameter van de display besloten we de gemiddelde waarde en variantie te bepalen van verscheidene horloges. De breedte van de display hebben we dan bepaald door het minimum en maximum te nemen van de gevonden lengtes van verschillende horloges. Dit omdat de lengte van horloge's veel moeilijker te vinden waren dan de breedte van de display. De resultaten van ons onderzoek kan je vinden in volgende figuur.
+Deze maten waren wederom niet duidelijk te vinden op de sites met antropometrische gegevens, dus besloten we de waarden van enkele horloge's die al op de markt zijn over te nemen. Voor de diameter van de display besloten we de gemiddelde waarde te bepalen van verscheidene horloges en dan deze te gebruiken voor het maken van onze display. De breedte van de display hebben we dan bepaald door het minimum en maximum te nemen van de gevonden lengtes van verschillende horloges. Hierbij zie je in het excel bestand veel minder gegevens staan. Dit omdat de lengte van horloge's veel moeilijker te vinden waren online dan de breedte van de display.
 
 ![excel bepalen horloge breedte, hoogte en lengte](https://github.com/molleke1/UCD_SEM1/assets/157485350/ded8aea3-8d43-4dca-837b-59f7b14df61d)
 
@@ -387,13 +387,20 @@ De lengte van de band is 21 cm en de gaatjes/velcro begint vanaf 13 cm
 </li>
 </ol>
 <br>
-Onze aanpassingen na de antropometrische test zijn:
+<b>Onze aanpassingen na de antropometrische test zijn:</b>
 <ol>
 <li>
 <b>Op vlak van de horloge</b><br>
 Eerste hadden we ons prototypes gemaakt met willekeurige breedte en lengte, maar na het antropometrisch onderzoek hebben we deze aangepast. Zo hebben we een diameter genomen van 4,1 cm en hebben we een bandje gemaakt met een lengte van 21 cm en een velcrolatje tot 13 cm van het einde. We hadden liever gewerkt met een riemsysteem (verschillende gaatjes die je de mogelijkheid bieden om aan te spannen), maar dit zou te veel werk kosten voor te creeren voor maar een prototype. Eén van de redenen waarom we liever voor het riemsysteem zouden gaan is dat het beter bestand is tegen regen/ zweet en veel beter zal blijven zitten/hangen tijdens het lopen. 
 
 foto met oud prototype en nieuw prototype en een zeer klein foto'tje met foto riemsysteem naar band nieuw prototype
+</li>
+<li>
+<b>Op vlak van de enkelband</b><br>
+Aan de sleeve zelf zullen we niet veel knippen en naaien, omdat we anders bang zijn dat een groot deel van het comfort weg zal zijn. Plus het verschil tussen de omtrek van de sleeve (19.85 cm) en die dat we berekend hebben (18.77 cm) is maar 1 cm, dus geen zo,n groot verschil. De elastische strip zal wel een grote verandering meemaken aangezien hij in het vorig prototype 15.5 cm was en nu een langte zal hebben van 13.26 cm. Ook bestaat de band nu uit een elastische stof in plaats van uit een vaste stof.
+
+![verbetering enkelband](https://github.com/molleke1/UCD_SEM1/assets/157485350/e43302e7-b50b-4fa0-b988-387de8d11628)
+
 </li>
 </ol>
 
