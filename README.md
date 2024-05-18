@@ -360,7 +360,9 @@ Ook hier gaan we verder met het designen for the small en nemen we een "kleine" 
 
 ![berekening 2](https://github.com/molleke1/UCD_SEM1/assets/157485350/72d390f9-8b32-48ab-a1bc-9a8cd3ec6afd)
 <br>
-In dat geval zullen we de bekomen waarde 7.33 cm vermenigvuldigen met 2 en optellen met 6 cm**. Hiervan nemen we dan het verschil met de lengte van de band zelf tot de enkel en zo weten we precies hoe lang onze elastische band moet zijn voor de enkelband. In osn geval is de ideale lengte <b>13.26 cm</b>.
+In dat geval zullen we de bekomen waarde 7.33 cm vermenigvuldigen met 2 en optellen met 6 cm** (a). Hiervan nemen we dan het verschil met de lengte van de band zelf tot de enkel (b) en zo weten we precies hoe lang onze elastische band moet zijn voor de enkelband. In ons geval is de ideale lengte <b>13.26 cm</b>.
+
+![berekening 1 1 ](https://github.com/molleke1/UCD_SEM1/assets/157485350/050378dc-9523-4bf6-b5cb-4c993e9741f1)
 
 ![design for the small enkelband samen](https://github.com/molleke1/UCD_SEM1/assets/157485350/ee97c3c8-6674-48d9-9b03-77280a063cc1)
 
