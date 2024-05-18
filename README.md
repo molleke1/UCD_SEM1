@@ -307,8 +307,7 @@ Bij het opzoeken van de vernoemde waarden (a,b,c,d) in antropometrische database
 <b>Omtrek van de enkel</b> <i>(a)</i><br>
 Deze maat hebben we maar deels zelf bepaald. Zo heeft het groepje van Emile en Tom namelijk van een groot deel van onze klas (waaronder wij zelf) de omtrek gemeten rond de enkel en dit dan doorgestuurd naar iedereen die werkt rond 'sport en tech'. Deze waarden waren echter allemaal van 20-25 jarigen. Aangezien onze doelgroep 20-60 jarigen zijn passen deze daar net in. Om te controleren of een oudere leeftijd nog veel verschil heeft in omtrek van de enkel hebben we enkele 40-60 jarigen getest. Onze ondervindingen hierbij waren dat deze juiste dezelfde waarden hadden zoals de 20-25 jarigen en het leeftijdsverschil dus geen zo'n grote invloed had. Al deze waarden hebben we dan in excel geplaatst en hiervan het gemiddelde en de variantie bepaald. <br>
 
-![foto'tje bij omtrek enkel](https://github.com/molleke1/UCD_SEM1/assets/157485350/1a4b2118-0309-42ad-9bdc-70271a3ddbd0)
-
+![foto'tje bij omtrek enkel](https://github.com/molleke1/UCD_SEM1/assets/157485350/29845e00-350e-4e94-b7cb-81af49248b85)
 <br>
 De bekomen waarden:
 <ul>
@@ -321,7 +320,9 @@ De variantie is 2.03 mm
 </ul>
 De bekomen waarden zijn een goeie richtwaarde, maar niet super accuraat. We hebben namelijk geen testen hebben gedaan met zwaarlijvige mensen, zeer lange mensen en etc. We richten ons voor deze proef echter op de "gemiddelde" mens waardoor we niet willen dat deze extreme waarden ons gemiddelde extreem beïnvloeden en laten we ze dan ook buiten beschouwing.<br><br>
 <b>Wat verandert dit nu aan ons product?</b><br>
-De ideale omtrek van de enkelband zou 18,70 mm zijn. Dit omdat we disignen for the small. Waarbij we de omtrek van de enkel pakken bij een magere/gemiddelde mens, maar door gebruik te maken van een elastische stof is het ook mogelijk om gedragen te worden door mensen met een grotere enkel. (zie foto) 
+De ideale omtrek van de enkelband zou 18,77 mm zijn (zie berekeningen). Hierbij designen we voor 97,7% van de bevolking waarbij we de echt super kleine waardes van enkel tot ondervoet buiten beschouwing laten. Dit omdat we disignen for the small. Waarbij we de omtrek van de enkel pakken bij een magere/gemiddelde mens, maar door gebruik te maken van een elastische stof is het ook mogelijk om gedragen te worden door mensen met een grotere enkel. (zie foto) 
+
+![berekening 1](https://github.com/molleke1/UCD_SEM1/assets/157485350/929744e7-1e8b-4348-87fe-b3720ce51c00)
 
 ![foto'tje design for small omtrek enkel](https://github.com/molleke1/UCD_SEM1/assets/157485350/3de6c796-6678-4a78-b4d7-ec0b48c8c6b2)
 <br>
