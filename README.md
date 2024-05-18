@@ -332,26 +332,36 @@ We werken echter met een sleeve die al een omtrek heeft van 19,85 mm. We kunnen 
 <b>afstand van de ondervoet tot de enkel </b><i>(b)</i><br>
 Deze maat hebben we voledig zelf bepaald. Dit door aan mensen dat we kennen dat tussen de 20-60 jaar oud te vragen of we even de lengte van hun ondervoet tot aan de enkel mochten meten. Dit deden we met een simpele meetlat van 30 cm waarbij we de onderkant op de grond plaatsen en dan meten tot aan het midden van de enkel. (zie figuur) Het enige "probleem" was dat de meetlat een dunne omranding had van 5 mm en deze meetwaarde rekenden we er dan ook steeds bij. In het voorbeeld is de lengte dus niet 8 mm, maar 8,5 mm.
 
-![meten van enkels](https://github.com/molleke1/UCD_SEM1/assets/157485350/ca48c47c-177a-43f7-b492-8f887993c171)
+![meten van enkels](https://github.com/molleke1/UCD_SEM1/assets/157485350/5e2ada3b-d69c-40d3-b62d-633c30e78f58)
 <br>
-Al deze waarden hebben we dan opgesomd in een excel samen met de leeftijd en geslacht. Deze waarden geslacht en leeftijd zijn in feite niet belangrijk, maar wel eens intressant. Zo zie je dat de mannen vaak een grotere afstand hebben van enkel tot ondervoet dan de vrouwen (misschien hint/idee dat we best het product ontwerpen voor mannen en vrouwen apart?). Op leeftijd valt er niet zo veel te vertellen of zijn er geen zaken dat echt uitspringen. Weer ter zake, de bekomen waarden hebben we dan allemaal geplaatst in een excel en net zoals voorheen het gemiddelde en de variantie bepaald.
-<br>
-<br>
-foto'tje excel bestand
+Al deze waarden hebben we dan opgesomd in een excel samen met de leeftijd en geslacht. Deze waarden geslacht en leeftijd zijn in feite niet belangrijk, maar wel eens intressant. Zo zie je dat de mannen vaak een grotere afstand hebben van enkel tot ondervoet dan de vrouwen (misschien hint/idee dat we best het product ontwerpen voor mannen en vrouwen apart?). Op leeftijd valt er niet zo veel te vertellen of zijn er geen zaken dat echt uitspringen. Weer ter zake, de bekomen waarden hebben we dan allemaal geplaatst in een excel en net zoals voorheen het gemiddelde, variantie, maximum en minimum bepaald.
+
+![excel bepalen enkelhoogte](https://github.com/molleke1/UCD_SEM1/assets/157485350/a9154246-7ee7-416a-af32-fdd0bc781ce1)
+
 <br>
 <br>
 De bekomen waarden:
 <ul>
 <li>
-De gemiddelde lengte van ondervoet tot enkel is 
+De gemiddelde lengte van ondervoet tot enkel is 9 cm
 </li>
 <li>
-De variantie is 
+De variantie is 0.83 cm
+</li>
+<li>
+Het maximum is 7.5 cm
+</li>
+<li>
+Het minimum is 10,5 cm
 </li>
 </ul>
 Ook hier zijn de bekomen waarden een goeie richtwaarde, maar niet super accuraat. We hebben namelijk geen testen hebben gedaan met zwaarlijvige mensen, zeer lange mensen en etc. We richten ons voor deze proef echter op de "gemiddelde" mens waardoor we niet willen dat deze extreme waarden ons gemiddelde extreem beïnvloeden en laten we ze dan ook buiten beschouwing.<br><br>
 <b>Wat verandert dit nu aan ons product?</b><br>
-Ook hier gaan we verder met het designen for the small en nemen we een kleine waarde voor de lengte van de ondervoet tot enkel. Deze waarde hebben we nodig voor het creeren van onze enkelband. In dat geval zullen we de bekomen waarde ... vermenigvuldigen met 2 en optellen met 6 cm**. Hiervan nemen we dan het verschil met de lengte van de band zelf tot de enkel en zo weten we precies hoe lang onze elastische band moet zijn voor de enkelband. In osn geval is de ideale lengte <b>...</b>.
+Ook hier gaan we verder met het designen for the small en nemen we een "kleine" waarde voor de lengte van de ondervoet tot enkel. Deze waarde berekende we als volgt. 
+
+![berekening 2](https://github.com/molleke1/UCD_SEM1/assets/157485350/109fdfd6-fea3-4252-b3a2-5cb4f497fe40)
+<br>
+In dat geval zullen we de bekomen waarde 7.33 cm vermenigvuldigen met 2 en optellen met 6 cm**. Hiervan nemen we dan het verschil met de lengte van de band zelf tot de enkel en zo weten we precies hoe lang onze elastische band moet zijn voor de enkelband. In osn geval is de ideale lengte <b>13.26 cm</b>.
 
 ![design for the small enkelband samen](https://github.com/molleke1/UCD_SEM1/assets/157485350/ee97c3c8-6674-48d9-9b03-77280a063cc1)
 
