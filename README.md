@@ -412,7 +412,7 @@ Aan de sleeve zelf zullen we niet veel knippen en naaien, omdat we anders bang z
 ## Human mind
 Link naar testprotocol: 
 https://github.com/cedricwatteyn/testprotocol-Human-Senses-and-Human-Mind/tree/main </br> </br>
-Is ons product eenvoudig te gebruiken zonder een handleiding?<br>
+Is ons product eenvoudig te gebruiken zonder extra instructies?<br>
 Ons product bestaat uit 2 delen; de display en de sensor.<br>
 <ul>
    <li>
