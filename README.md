@@ -409,6 +409,7 @@ Aan de sleeve zelf zullen we niet veel knippen en naaien, omdat we anders bang z
 https://github.com/molleke1/testprotocol-antropometrie
 
 ## user experience
+https://github.com/cedricwatteyn/testprotocol-Human-Senses-and-Human-Mind/tree/main
 Is ons product eenvoudig te gebruiken zonder een handleiding?<br>
 Ons product bestaat uit 2 delen; de display en de sensor.<br>
 <ul>
