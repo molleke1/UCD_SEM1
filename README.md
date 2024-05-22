@@ -281,6 +281,7 @@ Hiervoor kregen we een beetje dubbele 'commentaar'. Zo vroegen de potentiele geb
 Uit ons onderzoek stelden we vast dat het moeilijk zou worden om een passend product te ontwerpen voor elk type loper op de markt. Hiervoor zouden we veel meer research moeten doen, een veel grotere variatie aan mensen moeten interviewen en tijdens de prototyping fase veel meer variaties moeten maken om rekening te houden met iedereen. Dit is natuurlijk niet altijd mogelijk, dus moesten we ons doelpubliek noodgedwongen reduceren tot wat het nu is. Doordat we geen gebruikerstesten hebben kunnen afleggen hebben we onze prototypes die we nu hebben niet kunnen valideren en hebben we dus geen feedback van onze doelgroep kunnen verzamelen. Dit zorgt ervoor dat we enkel onze eigen mening erover hebben, en dat we mogelijks de meest opvallende fouten over het hoofd gezien hebben. Dit dwingt ons om zelf zo breed mogelijk te denken om deze fouten toch te vermijden en dit is niet ideaal. Maar we hebben genoeg research gedaan op voorhand zodat we weten hoe deze markt er zowat uitziet en welke ideeën en producten we eventueel kunnen gebruiken. Het moelijkste van deze opdracht vinden we om de slechte loopstijl te communiceren met de loper zonder het met woorden te vertellen. Dit is de grootste uitdaging voor ons momenteel, want we willen het niet op de eenvoudigste manier direct doen, omdat er zeker en vast betere opties zijn die veel meer voordelen hebben voor zowel ons financieel als de loper’s prestatie.
 
 ## Antropometrie & ergonomie
+link naar testprotocol: https://github.com/molleke1/testprotocol-antropometrie </br> </br>
 Welke maten zijn belangrijk voor ons ontwerp?<br>
 Ons ontwerp bestaat uit een enkelband en uit een een armband/horloge rond de pols.<br> 
 <ul>
@@ -406,10 +407,11 @@ Aan de sleeve zelf zullen we niet veel knippen en naaien, omdat we anders bang z
 </li>
 </ol>
 
-https://github.com/molleke1/testprotocol-antropometrie
+
 
 ## Human mind
-https://github.com/cedricwatteyn/testprotocol-Human-Senses-and-Human-Mind/tree/main
+Link naar testprotocol: 
+https://github.com/cedricwatteyn/testprotocol-Human-Senses-and-Human-Mind/tree/main </br> </br>
 Is ons product eenvoudig te gebruiken zonder een handleiding?<br>
 Ons product bestaat uit 2 delen; de display en de sensor.<br>
 <ul>
