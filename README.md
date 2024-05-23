@@ -467,6 +467,42 @@ Bij sensoriële ergonomie hebben we onze aandacht gelegd op het horloge aangezie
    </ul>
 </ol>
 
+## Human mind and senses
+
+Aangezien bij ons product de termen Human senses en Human mind vaak overlappen hebben we besloten deze gezamelijk te testen en bespreken. Het verschil licht hem in de details, maar in het algemeen ligt de focus bij de communicatie via de display en de positie van de sensor. </br>
+Link naar testprotocol: 
+https://github.com/cedricwatteyn/testprotocol-Human-Senses-and-Human-Mind/tree/main </br> </br>
+We delen deze problemen op in 3 delen, namelijk: </br>
+<ul>
+   <li>
+      <b>De display</b><br>
+      Voor onze display is het vooral belangrijk dat de gebruiker snel weet wat de verschillende schermen betekenen en dus ook weet wat moet gebeuren als deze schermen weergegeven worden. Dit wil zeggen dat we ervoor moeten zorgen dat de displays groot en simpel genoeg zijn voor de gebruiker(Hick's en fills' Law) om de communicatie vlot en duidelijk te laten verlopen. </br></br> Dit deden we door tijdens de gebruikerstesten te chronometreren hoe lang het duurde om elke display te interpreteren.<br>
+      De displays die hiervoor gebruikt werden werken op basis van 3 kleuren: groen, oranje en rood, die betekenen resp. goed, matig, slecht. Dit in combinatie met pijlen om een onderscheid te maken tussen slecht (sneller lopen) en slecht (trager lopen) </br></br>
+      Wat we hieruit geleerd hebben is dat de eenvoudige schermen met enkel kleuren en pijltjes dezelfde (nuttige) informatie overbrengen maar in een veel kortere tijd. We laten wel de optie voor de gebruikers die meer informatie willen om een uitgebreide display te kiezen maar deze is niet ideaal voor de werking van het product.</br> 
+
+   </li>
+   
+![image](https://github.com/molleke1/UCD_SEM1/assets/154930366/a49ac18c-ecfc-4da1-8ca4-443e59a07059)
+
+
+   <li>
+      <b>De sensor</b></br>
+      Idealieter zou de sensor altijd vanzelf op de correcte plaats zitten, maar dit is natuurlijk niet mogelijk. Dus moeten wij ervoor zorgen dat het voor de gebruiker duidelijk is hoe de enkelband gedragen moet worden zodat de sensor telkens op de juiste plaats zit.</br> Indien dit niet zo is en de sensor zit niet correct zou de test al vanaf het begin kunnen falen. </br></br>daarvoor hebben we een soort kous gebruikt die de hiel en enkel als anker gebruikt om een te hoge positie te verkomen, tegelijkertijd zorgt de elastische stof van de enkelband ervoor dat de verschuiving door eventuele trillingen worden tegengehouden. </br>
+
+      
+      
+Na enkele testen te doen werd al snel duidelijk dat dit toch niet voor iedereen vanzelfsprekend was, dus hebben we ook nog een R(echts) en L(inks) toegevoegd en het logo om de voorkant van de enkelband aan te duiden. Met deze aanpassingen was het voor de gebruiker een stuk makkelijker om de kousen te onderscheiden.
+   </li>
+   <li>
+      <b>De trilling</b> </br>
+      Om de gebruiker te verwittigen dat hij naar de oranje of rode zone overgaat, gaat er om een bepaalde tijd een trilling af in het horloge. Om toch een verschil te maken tussen deze 2 zone's hebben we de trilling langer gemaakt naarmate je verder van de groene zone verwijderd bent, met andere woorden of je in de oranje (2 seconden) of rode (5 seconden) zone zit. </br>
+      Deze trilling is enkel en alleen een signaal voor de gebruiker om naar de display te kijken en is dus geen soort van directe feedback. </br>
+
+
+
+   </li>
+</ul>
+
 
 ## Bronnen
 Victoris. (z.d.). Lower impact running. Geraadpleegd op 04 oktober 2023 van  
