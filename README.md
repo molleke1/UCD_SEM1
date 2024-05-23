@@ -396,7 +396,7 @@ De lengte van de band is 21 cm en de gaatjes/velcro begint vanaf 13 cm
 <b>Op vlak van de horloge</b><br>
 Eerste hadden we ons prototypes gemaakt met willekeurige breedte en lengte, maar na het antropometrisch onderzoek hebben we deze aangepast. Zo hebben we een diameter genomen van 4,1 cm en hebben we een bandje gemaakt met een lengte van 21 cm en een velcrolatje tot 13 cm van het einde. We hadden liever gewerkt met een riemsysteem (verschillende gaatjes die je de mogelijkheid bieden om aan te spannen), maar dit zou te veel werk kosten voor te creeren voor maar een prototype. Eén van de redenen waarom we liever voor het riemsysteem zouden gaan is dat het beter bestand is tegen regen/ zweet en veel beter zal blijven zitten/hangen tijdens het lopen. 
 
-foto met oud prototype en nieuw prototype en een zeer klein foto'tje met foto riemsysteem naar band nieuw prototype
+![armband evaluatie](https://github.com/molleke1/UCD_SEM1/assets/157485350/6ed0c51e-0be4-4c73-a405-b9fa4b7738ec)
 </li>
 <li>
 <b>Op vlak van de enkelband</b><br>
@@ -419,10 +419,19 @@ We delen deze problemen op in 3 delen, namelijk: </br>
    <li>
       <b>De display</b><br>
       Voor onze display is het vooral belangrijk dat de gebruiker snel weet wat de verschillende schermen betekenen en dus ook weet wat moet gebeuren als deze schermen weergegeven worden. Dit wil zeggen dat we ervoor moeten zorgen dat de displays groot en simpel genoeg zijn voor de gebruiker (Hick's en fills' Law) om de communicatie vlot en duidelijk te laten verlopen. </br></br> Dit deden we door tijdens de gebruikerstesten te chronometreren hoe lang het duurde om elke display te interpreteren.<br>
-      De displays die hiervoor gebruikt werden werken op basis van 3 kleuren: groen, oranje en rood, die betekenen resp. goed, matig, slecht. Dit in combinatie met pijlen om een onderscheid te maken tussen slecht (sneller lopen) en slecht (trager lopen) </br></br>
-      Wat we hieruit geleerd hebben is dat de eenvoudige schermen met enkel kleuren en pijltjes dezelfde (nuttige) informatie overbrengen maar in een veel kortere tijd. We laten wel de optie voor de gebruikers die meer informatie willen om een uitgebreide display te kiezen maar deze is niet ideaal voor de werking van het product.</br> 
-
+      De displays die hiervoor gebruikt werden werken op basis van 3 kleuren: groen, oranje en rood, die betekenen resp. goed, matig, slecht. Dit in combinatie met pijlen om een onderscheid te maken tussen slecht (sneller lopen) en slecht (trager lopen) 
+   
 ![display_foto's](https://github.com/molleke1/UCD_SEM1/assets/154930366/0f0d92fa-4ef8-4e7d-9226-19b01217d901)
+</br></br>
+Wat we hieruit geleerd hebben is dat beide soorten display's hun voordeel hebben. <br>
+Zo hebben geven de <b>eenvoudige schermen</b> met enkel kleuren en pijltjes de real-time feedback steeds over naar de eindgebruiker in een zeer korte tijd (4s). Ook is de cognitieve belasting veel minder groot. Dit omdat de siplay zeer simpel is gehouden en niet veel kleine en complexe zaken bevat. <br>
+De wat ingewikkeldere display's hebben dan weer het voordeel dat je precies weet hoe ver je zit van de perfecte loophouding/snelheid (range). Wel is de cognitieve belasting veel groter door de kleine lettertjes en vele verschillende zaken op de display. <br>
+<i>OPMERKING:</i><br>
+Wij hadden eerst verwacht dat de ingewikkelde diplay veel moeilijker te lezen/interpetere ging zijn dan de simpelere versies. De gebruikerstesten bewezen ons echter tegenwijs. Zo koste het de eerste kaar dat ze de diplay zagen zo,n 17 seconden voor ze wisten wat ze moesten doen. Toen we het echter voor de tweede keer toonden wisten ze al snel waar alles stond en duurde het rond de 6 seconden voor het juist te interpeteren. Dit scheelt niet zo super veel van de simpelere diplay die het voordeel van de "range" niet heeft.
+
+![tabel](https://github.com/molleke1/UCD_SEM1/assets/157485350/4c2cfdc3-7ccc-462d-8891-4700f9d9b38d)
+
+Beide display's hebben hun voordelen en nadelen. Wij zelf zouden de simpelere diplay voorstellen, maar we geven onze gebruiker zelf de kans te kiezen tussen beide display's. Zo zal ook de wat ingewikkeldere display een betere score halen bij loopers met sporthorloges dit omdat meeste sporthorloges al opgebouwd zijn in dezelfde diplay stijl/ We laten wel de optie voor de gebruikers die meer informatie willen om een uitgebreide display te kiezen maar deze is niet ideaal voor de werking van het product.</br> 
 
 
    </li>
