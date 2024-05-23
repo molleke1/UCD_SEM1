@@ -409,64 +409,6 @@ Aan de sleeve zelf zullen we niet veel knippen en naaien, omdat we anders bang z
 
 
 
-## Human mind
-Link naar testprotocol: 
-https://github.com/cedricwatteyn/testprotocol-Human-Senses-and-Human-Mind/tree/main </br> </br>
-Is ons product eenvoudig te gebruiken zonder extra instructies?<br>
-Ons product bestaat uit 2 delen; de display en de sensor.<br>
-<ul>
-   <li>
-      <b>De display</b><br>
-      Voor onze display is het vooral belangrijk dat de gebruiker weet wat de verschillende schermen betekenen en dus ook weet wat moet gebeuren als deze schermen weergegeven worden. dit hebben we getest bij de gebruikerstesten door op papier de verschillende mogelijkheden te tonen en te timen hoe lang het duurde voor de gebruiker zei wat hij zou moeten doen.<br>
-      Wat we hieruit geleerd hebben is dat de eenvoudige schermen met enkel kleuren en pijltjes dezelfde (nuttige) informatie overbrengen maar in een veel kortere tijd. Waardoor het ons logisch lijkt om dan ook de eenvoudige displays verder te gebruiken en daar onze tests mee te doen.
-      
-   </li>
-   <li>
-      <b>De sensor</b><br>
-      Bij de sensor is het de bedoeling dat de sensor altijd juist bevestigd wordt vanaf de eerste keer anders zou de test al vanaf het begin kunnen falen. daarvoor hebben we een soort kous gebruikt die de hiel als anker gebruikt zodat de sensor zeker telkens op de juiste plaats terecht komt op het scheenbeen. Ook maken we met behulp van een R of een L duidelijk of de kous voor de rechter of linker voet moet gedragen worden.
-   </li>
-</ul>
-
-
-## human senses
-Welke aanpassingen hebben we gemaakt op het vlak van sensoriële ergonomie? <br>
-Bij sensoriële ergonomie hebben we onze aandacht gelegd op het horloge aangezien het bevestigen van de sensor aan de enkel een proces van 2 eenvoudige stappen is. Bij de <i>live feedback</i> aan de hand van ruis op de muziek is het mogelijk dat de gebruiker nog steeds niet weet wat hij moet doen. onze oplossing werkt aan de hand van een display op een horloge waarop de gebruiker duidelijker ziet wat er fout is.<br>
-<ol>
-   <li>
-      <b>Display</b>
-   </li>
-   <ul>
-      <li>
-         Het display waarop de data wordt weergegeven heeft 2 standen: eenvoudig of uitgebreid.
-         <ul> <li>  Bij de eenvoudige weergave werken we aan de hand van kleuren. Aangezien mensen automatisch de kleuren groen, oranje en rood koppelen met resp. goed, gemiddeld en slecht, merken we dat alleen de kleuren al voldoende zouden zijn bij meeste gevallen. Hoewel, oranje en rood kunnen zowel versnellen als vertragen betekenen, én kleurenblinde mensen zouden uitgesloten worden. Dus wordt naast de kleur ook een eenvoudig symbool getoond als ondersteuning van de overheersende kleur.</li> <li>  De uitgebreide weergave is dan precies wat je zou verwachten; een display waarop meer informatie wordt meegegeven, zoals hartslag en snelheid, maar ook de waarde van de impact op het scheenbeen. Dit is natuurlijk uitsluitend voor de mensen die niet enkel gefocust zijn op het verbeteren van de looptechniek.</li> </ul>   
-         
-![30b82081-944d-46df-a0b6-216c2c570a03](https://github.com/molleke1/UCD_SEM1/assets/154930366/cfe56b37-30d1-43b5-a255-802f4c979f8a)
-  
-
- </li>
-   </ul>
-
-   
-   <li>
-      Het signaal
-   </li>
-   <ul>
-      <li>
-         Als we de aandacht van de loper willen trekken naar het horloge hebben we een soort signaal nodig die de loper laat kijken naar zijn horloge. Hiervoor hebben we 3 mogelijkheden bedacht: <i>haptic, sound or light signal</i>.
-         <ul>
-            <li>
-               Bij <i>haptic signal</i> wordt via het horloge een paar keer een trilling gestuurd, hoe ernstiger de afwijking van de impact hoe harder deze trillingen.
-            </li>
-            <li>
-                <i>Sound signal</i> is een optie voor mensen die met een koptelefoon of oortjes lopen. Net zoals bij de trillingen zal de toon varieren in functie van de afwijking.
-            </li>
-            <li>
-               Ten slotte, <i>light signal</i> is een effectieve manier voor mensen die in de avond of nacht lopen zonder de loper te storen.
-         </ul>
-      </li>
-   </ul>
-</ol>
-
 ## Human mind and senses
 
 Aangezien bij ons product de termen Human senses en Human mind vaak overlappen hebben we besloten deze gezamelijk te testen en bespreken. Het verschil licht hem in de details, maar in het algemeen ligt de focus bij de communicatie via de display en de positie van de sensor. </br>
