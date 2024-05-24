@@ -429,7 +429,7 @@ De wat ingewikkeldere display's hebben dan weer het voordeel dat je precies weet
 <i>OPMERKING:</i><br>
 Wij hadden eerst verwacht dat de ingewikkelde diplay veel moeilijker te lezen/interpetere ging zijn dan de simpelere versies. De gebruikerstesten bewezen ons echter tegenwijs. Zo koste het de eerste kaar dat ze de diplay zagen zo,n 17 seconden voor ze wisten wat ze moesten doen. Toen we het echter voor de tweede keer toonden wisten ze al snel waar alles stond en duurde het rond de 6 seconden voor het juist te interpeteren. Dit scheelt niet zo super veel van de simpelere diplay die het voordeel van de "range" niet heeft.
 
-![tabel](https://github.com/molleke1/UCD_SEM1/assets/157485350/4c2cfdc3-7ccc-462d-8891-4700f9d9b38d)
+![tabel](https://github.com/molleke1/UCD_SEM1/assets/157485350/081f1170-8628-4935-a43e-a8ac7c0729ae)
 
 Beide display's hebben hun voordelen en nadelen. Wij zelf zouden de simpelere diplay voorstellen, maar we geven onze gebruiker zelf de kans te kiezen tussen beide display's. Zo zal ook de wat ingewikkeldere display een betere score halen bij loopers met sporthorloges dit omdat meeste sporthorloges al opgebouwd zijn in dezelfde diplay stijl/ We laten wel de optie voor de gebruikers die meer informatie willen om een uitgebreide display te kiezen maar deze is niet ideaal voor de werking van het product.</br> 
 
@@ -439,20 +439,36 @@ Beide display's hebben hun voordelen en nadelen. Wij zelf zouden de simpelere di
 
 
    <li>
-      <b>De sensor</b></br>
-      Idealieter zou de sensor altijd vanzelf op de correcte plaats zitten, maar dit is natuurlijk niet mogelijk. Dus moeten wij ervoor zorgen dat het voor de gebruiker duidelijk is hoe de enkelband gedragen moet worden zodat de sensor telkens op de juiste plaats zit.</br> Indien dit niet zo is en de sensor zit niet correct zou de test al vanaf het begin kunnen falen. </br></br>daarvoor hebben we een soort kous gebruikt die de hiel en enkel als anker gebruikt om een te hoge positie te verkomen, tegelijkertijd zorgt de elastische stof van de enkelband ervoor dat de verschuiving door eventuele trillingen worden tegengehouden. </br>      
-Na enkele testen te doen werd al snel duidelijk dat dit toch niet voor iedereen vanzelfsprekend was, dus hebben we ook nog een R(echts) en L(inks) toegevoegd en het logo om de voorkant van de enkelband aan te duiden. Met deze aanpassingen was het voor de gebruiker een stuk makkelijker om de kousen te onderscheiden.
+<b>De sensor</b></br>
+Idealieter zou de sensor altijd vanzelf op de correcte plaats zitten, maar dit is natuurlijk niet mogelijk zonder een bijsluiter. Wij willen er echter een zaak van maken geen bijlsuiter te hoeven gebruiken en proberen zo alles duidelijk te maken met onderlinge communicatie tussen product en eindgebruiker. Hierdoor zijn we 'genoodzaakt' ervoor te zorgen dat het voor de gebruiker duidelijk is hoe de enkelband gedragen moet worden zodat de sensor telkens op de juiste plaats zit.</br> Indien dit niet het geval zou zijn en de sensor steeds op een andere plaats zit kan de sensor niet afgaan op vorige meetingen en verliest de sensor een groot deel van zijn efficientie. </br></br>Om deze onderlinge communicatie tot stand te brengen maken we gebruik van een enkelband die de hiel en enkel als anker gebruikt om een te hoge positie te verkomen, tegelijkertijd zorgt de elastische stof van de enkelband ervoor dat de verschuiving door eventuele trillingen worden tegengegaan </br>      
+Na enkele gebruikerstesten werd al snel duidelijk dat dit toch niet voor iedereen vanzelfsprekend was. Zo zagen we in het eerste trimister al dat de eindgebruikers niet altijd direct wisten aan welke voet ze de enkelband moesten bevestigen. Onze oplossing hiervoor was te werken met L en R, maar dan kan je de enkelband nog steeds fout dragen blijkt uit onze gebruikersttesten. Zo kan de senor dan aan de buitenkant of de binnenkant komen te zitten (zie figuur). Voor een optimale werking zou de senor het best aan de buitenkant van de enkel zitten. Om dit te geranderen hebben we een beetje gespeeld met de positie van onze L en R op de kous. Deze eens vanvoor geplaatst, aan de zijkant, omgedraaid, ... (zie figuur). Toen we dit hadden getest bleek dat 3 de best keuze was en de mensen deze het meest juist interperteerden. 
 
+![foto verslag](https://github.com/molleke1/UCD_SEM1/assets/157485350/8175d790-6940-4eb1-9e41-8d302adf890d)
 
+Voor het plaatsen van de sensor vonden al onze eindgebruikers snel het zakje waar de sensor in moest en plaatsen ze dit daar steeds juist in (zie figuur). <br> Wel had een van onze testpersonen (Dieter) een idee om te werken met kliksysteem in plaats van een zaksysteem. Dit omdat zijn hartslagmeter ook zo gemaakt is. Wij hadden dit ook al overwogen, maar dan aan de kant geschoven omdat het te veel comfort zou wegnemen. Indien we dit wel zouden overwegen zouden we moeten werken met een hard stuk plastic zoals bij een hartslagmeter (zie figuur), want je kan dat nie (zonder te zorgen voor irritatie) rechtsreeks bevestigen aan de enkelband.
 
+![foto'tje sensor](https://github.com/molleke1/UCD_SEM1/assets/157485350/fba8e900-746b-4278-a4b4-9732721d62e9)
+
+Voor wat dient het gat in de enkelband dan? <br>
+Wel dit gat is eigenlijk om de positie van je enkel aan te duiden. Zo weet je precies tot waar je de enkelband moet trekken, nl tot het gat samenvalt met je enkel. Bij onze gebruikerstesten zagen we dat dit zeer duidelijk was, zo trok iedere persoon zonder het te weten steeds de enkelband omhoog tot het gat samenviel met de enkel.
+
+![enkelband samenvallen](https://github.com/molleke1/UCD_SEM1/assets/157485350/a9417ce1-2bfe-438f-823d-28bbb6b56b1d)
 
    </li>
    <li>
-      <b>De trilling</b> </br>
-      Om de gebruiker te verwittigen dat hij naar de oranje of rode zone overgaat, gaat er om een bepaalde tijd een trilling af in het horloge. Om toch een verschil te maken tussen deze 2 zone's hebben we de trilling langer gemaakt naarmate je verder van de groene zone verwijderd bent, met andere woorden of je in de oranje (2 seconden) of rode (5 seconden) zone zit. </br>
-      Deze trilling is enkel en alleen een signaal voor de gebruiker om naar de display te kijken en is dus geen soort van directe feedback. </br>
+<b>De trilling</b> </br>
+Een van de sterke punten van ons product is de real-time feeback. Hierbij is het noodzakelijk dat de gebruiker de evaluatie van zijn schokken en wat hij moet doen kan verkrijgen <b>tijdens</b> het lopen. In ons product wordt dit gedaan met behulp van een horloge. Deze geeft aan wanneer je fout bezig bent aan de hand van een diplay <i>(zie stukje "De display")</i>. De eindgebruiker kan echter nie 24 op 7 tijdens het lopen kijken naar zijn horloge of hij eventueel slecht bezig is. Vandaar dat we trillingen gebruiken om te verwittigen dat hij naar de oranje of rode zone overgaat. Deze trilling wordt dan om de 5 min herhaald indien hij in de rode of oranje zone blijft lopen. Hierbij hebben we, om toch een verschil te maken tussen deze 2 zone's, de trilling langer gemaakt naarmate je verder van de groene zone verwijderd bent, met andere woorden of je in de oranje (2 seconden) of rode (5 seconden) zone zit. </br>
+Deze trilling dient dus enkel en alleen om een signaal te geven aan de gebruiker om te kijken naar de display en geeft dus geen directe feeback weer. Tenzij je als loper de lengte van de trilling memoriseerd en dan daar op verder werkt natuurlijk.</br>
 
-![6037a037-e1ae-4639-b7c3-13b2b6cc1518](https://github.com/molleke1/UCD_SEM1/assets/154930366/ca2b69c2-2190-426a-9368-fd41dec19629)
+![horloge met sensor](https://github.com/molleke1/UCD_SEM1/assets/157485350/178aeef6-606d-4ac0-a7b4-debd8759b17b)
+
+Hierbij testen we steeds eerst of de trillingen die gegeven worden door de sensor uberhaupt voelbaar zijn voor de respondent. Bij het testen was het resultaat hier steeds positief op. Ook heeeft geen enkele respondent gezegd dat de trilling te zwaar was, dus dat is zeker ook een belangrijk punt dat meegenomen wordt.
+
+foto van testen
+
+Het tweede dat we testen was of de loper in kwestie de reflex had om te kijken naar zijn horloge indien er een trilling was op zijn arm. Dit hebben we dan ook gestest met enkele respondenten en dit verliep relatief vlot. Zo gaven sommige gebruikers eerst aan dat ze dachten dat het een signaal was dat werd gegeven, een bepaalde morscode, waarbij ze een bepaalde handeling moesten doen. Hierbij zeiden we dan gewoon dat het iets anders betekende en dan keken ze zeer snel naar de diplay van de horloge. <br>
+We kunnen hieruit concluderen dat de onderlinge communicatie meer dan goed verloopt. Het is niet perfect, maar bij communicatie met de gebruiker zonder bijlsuiter is het zeker meer dan voldoende. 
+
 
 
    </li>
