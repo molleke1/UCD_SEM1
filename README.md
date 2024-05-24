@@ -441,7 +441,7 @@ Beide display's hebben hun voordelen en nadelen. Wij zelf zouden de simpelere di
    <li>
 <b>De sensor</b></br>
 Idealieter zou de sensor altijd vanzelf op de correcte plaats zitten, maar dit is natuurlijk niet mogelijk zonder een bijsluiter. Wij willen er echter een zaak van maken geen bijlsuiter te hoeven gebruiken en proberen zo alles duidelijk te maken met onderlinge communicatie tussen product en eindgebruiker. Hierdoor zijn we 'genoodzaakt' ervoor te zorgen dat het voor de gebruiker duidelijk is hoe de enkelband gedragen moet worden zodat de sensor telkens op de juiste plaats zit.</br> Indien dit niet het geval zou zijn en de sensor steeds op een andere plaats zit kan de sensor niet afgaan op vorige meetingen en verliest de sensor een groot deel van zijn efficientie. </br></br>Om deze onderlinge communicatie tot stand te brengen maken we gebruik van een enkelband die de hiel en enkel als anker gebruikt om een te hoge positie te verkomen, tegelijkertijd zorgt de elastische stof van de enkelband ervoor dat de verschuiving door eventuele trillingen worden tegengegaan </br>      
-Na enkele gebruikerstesten werd al snel duidelijk dat dit toch niet voor iedereen vanzelfsprekend was. Zo zagen we in het eerste trimister al dat de eindgebruikers niet altijd direct wisten aan welke voet ze de enkelband moesten bevestigen. Onze oplossing hiervoor was te werken met L en R, maar dan kan je de enkelband nog steeds fout dragen blijkt uit onze gebruikersttesten. Zo kan de senor dan aan de buitenkant of de binnenkant komen te zitten (zie figuur). Voor een optimale werking zou de senor het best aan de buitenkant van de enkel zitten. Om dit te geranderen hebben we een beetje gespeeld met de positie van onze L en R op de kous. Deze eens vanvoor geplaatst, aan de zijkant, omgedraaid, ... (zie figuur). Toen we dit hadden getest bleek dat 3 de best keuze was en de mensen deze het meest juist interperteerden. 
+Na enkele gebruikerstesten werd al snel duidelijk dat dit toch niet voor iedereen vanzelfsprekend was. Zo zagen we in het eerste trimister al dat de eindgebruikers niet altijd direct wisten aan welke voet ze de enkelband moesten bevestigen. Onze oplossing hiervoor was te werken met L en R, maar dan kan je de enkelband nog steeds fout dragen blijkt uit onze gebruikerstesten. Zo kan de senor dan aan de buitenkant of de binnenkant komen te zitten (zie figuur). Voor een optimale werking zou de senor het best aan de buitenkant van de enkel zitten. Om dit te geranderen hebben we een beetje gespeeld met de positie van onze L en R op de kous. Deze eens vanvoor geplaatst, aan de zijkant, omgedraaid, ... (zie figuur). Toen we dit hadden getest bleek dat 3 de best keuze was en de mensen deze het meest juist interperteerden. 
 
 ![foto verslag](https://github.com/molleke1/UCD_SEM1/assets/157485350/8175d790-6940-4eb1-9e41-8d302adf890d)
 
@@ -454,6 +454,12 @@ Wel dit gat is eigenlijk om de positie van je enkel aan te duiden. Zo weet je pr
 
 ![enkelband samenvallen](https://github.com/molleke1/UCD_SEM1/assets/157485350/a9417ce1-2bfe-438f-823d-28bbb6b56b1d)
 
+<br>
+Enkele fotootjes van de gebruikerstesten <br>
+Zoals je ziet dragen de meeste mensen de enkelband over de kous. Meestal vroegen we dan na het doorlopen van het scenario eens waarom ze dit deden en of er een achterligende gedachte achter zat. Al onze respondenten deden dit echter steeds "automatisch". Ergens zal de fout ook wel bij ons liggen, omdat we steeds vroegen om alle objecten eens aan te trekken als ze nog volledig gekleed waren. Hierdoor deden ze gewoon hun schoenen af en trokken ze het over hun kous. Indien we hun hadden gevraagd om alles af te doen behalve slip, gingen misschien een andere/accurater conclusie hebben gehad.
+
+![testen enkelband](https://github.com/molleke1/UCD_SEM1/assets/157485350/c8aa57c2-d3d6-42f0-bd20-dd553ad523a2)
+<br><br>
    </li>
    <li>
 <b>De trilling</b> </br>
