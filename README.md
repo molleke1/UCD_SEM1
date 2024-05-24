@@ -62,9 +62,8 @@ Het opstellen van ons persona en zo ook onze doelgroep vaststellen. Hierbij gaan
 
 <ins>Stap 2:</ins> </br>
 Opstellen van onze ontwerpcriteria gebaseerd op de gevoerde deskresearch en interviews. 
-  ![image](https://github.com/molleke1/UCD_SEM1/assets/154930366/4d577b0d-af22-4ed7-8ccc-f4431adb1f07)
-![image](https://github.com/molleke1/UCD_SEM1/assets/154930366/e4a35762-ccc7-4be4-9719-1faa42d795c8)
 
+![eisen en wensen](https://github.com/molleke1/UCD_SEM1/assets/157485350/2f13f219-cde2-4dd0-bc6c-100e6ed030a7)
 
 <ins>Stap 3:</ins> </br>
 Het definiëren van de ‘how might we’: ” Hoe kunnen we schokdetectie inzetten om lopers gezonder te laten sporten?”
@@ -407,7 +406,33 @@ Aan de sleeve zelf zullen we niet veel knippen en naaien, omdat we anders bang z
 </li>
 </ol>
 
+<b>update design requirements</b>
 
+![eisen en wensen V2 2](https://github.com/molleke1/UCD_SEM1/assets/157485350/69b59632-0566-49ed-b5fe-b8558e83da6e)
+
+## Expert review/heuristic evaluation
+
+Dit was een klein testje waarbij we onze nieuwe prototypes eens aftoetsen bij de eingebruiker. Hierbij hebben we enkele vragen gesteld over onze design requirements, maar lieten we hun ook eens onze prototypes zien en uitproberen. Hierdoor konden ze hun mening makkelijker staven en was hun mening ook veel meer "waard" voor ons. Op de foto's zie je een ingevuld exemplaar van Els Vanderheaghe.
+
+![test 1](https://github.com/molleke1/UCD_SEM1/assets/157485350/03ac984b-f389-4611-815c-a9b13e72a975)
+![test 2](https://github.com/molleke1/UCD_SEM1/assets/157485350/4485c54c-10b9-42c2-8fe8-0d1f45eeaaab)
+![test 3](https://github.com/molleke1/UCD_SEM1/assets/157485350/8e4f98d7-6a9a-4af9-9231-3e9cf326e96a)
+
+<br><br>
+Enkele zaken dat we hebben geleerd uit de testen zijn:
+<ul>
+<li>
+De posite van de sensor in de kous. <br>
+Zo zeiden ze dat ze niet zeker wisten hoe ze de sensor er in moesten steken. Het vinden van het zakje zelf was geen probleem, maar wel hoe ze de sensor moesten orienteren. Om het beste resultaat te hebben zou de punt van de sensor de binnenkant van het been moeten aanduiden (zoals 1). Het probleem hierbij is dat die punt gaat gaan drukken op je been en zo comfort zal wegnemen. Onze oplossing hiervoor is eenzelfde sensor te kopen, maar zonder uitsteeksel. Dit omdat het uitsteeksel puur is voor vast te klikken, maar aangezien we dit niet nodig hebben moet dat ook niet aanwezig zijn.
+
+![beentjes](https://github.com/molleke1/UCD_SEM1/assets/157485350/041b63fc-5897-4413-87ca-a149b8b697d3)
+
+</li>
+<li>
+De trillingen<br>
+Een van onze respondenten draagde een smartwatch en zei dat de trilling een beetje leek op de melding van een bericht op de smartwatch. Zelf hadden we nog niet zo ver gekeken en waren we even bang dat de trillingen toch geen goed idee gingen zijn omdat je zo,n meldingen meestal negeert. Bij wat verder denken wisten we echter dat dat geen probleem ging vormen aangezien onze horloge enkel gebruikt wordt voor te lopen en er zo dus ook geen misverstanden kunnen zijn met eventuele berichtjes.  
+</li>
+</ul>
 
 ## Human mind and senses
 
@@ -458,7 +483,7 @@ Wel dit gat is eigenlijk om de positie van je enkel aan te duiden. Zo weet je pr
 Enkele fotootjes van de gebruikerstesten <br>
 Zoals je ziet dragen de meeste mensen de enkelband over de kous. Meestal vroegen we dan na het doorlopen van het scenario eens waarom ze dit deden en of er een achterligende gedachte achter zat. Al onze respondenten deden dit echter steeds "automatisch". Ergens zal de fout ook wel bij ons liggen, omdat we steeds vroegen om alle objecten eens aan te trekken als ze nog volledig gekleed waren. Hierdoor deden ze gewoon hun schoenen af en trokken ze het over hun kous. Indien we hun hadden gevraagd om alles af te doen behalve slip, gingen misschien een andere/accurater conclusie hebben gehad.
 
-![testen enkelband](https://github.com/molleke1/UCD_SEM1/assets/157485350/c8aa57c2-d3d6-42f0-bd20-dd553ad523a2)
+![testen enkelband](https://github.com/molleke1/UCD_SEM1/assets/157485350/4a571e64-84b2-47cf-acfa-6a469010f1a8)
 <br><br>
    </li>
    <li>
@@ -470,7 +495,7 @@ Deze trilling dient dus enkel en alleen om een signaal te geven aan de gebruiker
 
 Hierbij testen we steeds eerst of de trillingen die gegeven worden door de sensor uberhaupt voelbaar zijn voor de respondent. Bij het testen was het resultaat hier steeds positief op. Ook heeeft geen enkele respondent gezegd dat de trilling te zwaar was, dus dat is zeker ook een belangrijk punt dat meegenomen wordt.
 
-foto van testen
+![testen trillingen](https://github.com/molleke1/UCD_SEM1/assets/157485350/7575ed77-3d74-480e-9e23-449d3ed65a61)
 
 Het tweede dat we testen was of de loper in kwestie de reflex had om te kijken naar zijn horloge indien er een trilling was op zijn arm. Dit hebben we dan ook gestest met enkele respondenten en dit verliep relatief vlot. Zo gaven sommige gebruikers eerst aan dat ze dachten dat het een signaal was dat werd gegeven, een bepaalde morscode, waarbij ze een bepaalde handeling moesten doen. Hierbij zeiden we dan gewoon dat het iets anders betekende en dan keken ze zeer snel naar de diplay van de horloge. <br>
 We kunnen hieruit concluderen dat de onderlinge communicatie meer dan goed verloopt. Het is niet perfect, maar bij communicatie met de gebruiker zonder bijlsuiter is het zeker meer dan voldoende. 
@@ -479,7 +504,10 @@ We kunnen hieruit concluderen dat de onderlinge communicatie meer dan goed verlo
 
    </li>
 </ul>
+<br>
+<b>update design requirements</b>
 
+![eisen en wensen V3 3](https://github.com/molleke1/UCD_SEM1/assets/157485350/ced6de1e-d0cd-4cf5-bac6-75fe145d9320)
 
 ## Bronnen
 Victoris. (z.d.). Lower impact running. Geraadpleegd op 04 oktober 2023 van  
