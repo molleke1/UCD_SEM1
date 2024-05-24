@@ -509,6 +509,12 @@ We kunnen hieruit concluderen dat de onderlinge communicatie meer dan goed verlo
 
 ![eisen en wensen V3 3](https://github.com/molleke1/UCD_SEM1/assets/157485350/ced6de1e-d0cd-4cf5-bac6-75fe145d9320)
 
+## conclusie
+
+Wel ik denk dat we een zeer leerrijk jaar achter de rug hebben op vlak van gebruiksgericht ontwerpen. Zo hebben we zeer veel nieuwe technieken geleerd dat we kunnen toepassen om ons product aan de wensen van de eindgebruiker te staven. We hebben deze technieken dan ook zoveel mogelijk proberen toe te passen op ons product. We hebben hierbij leren rekening gehouden met de complexiteit van het product en hoe mensen bepaalde zaken ervaren.<br><br>
+Op vlak van de enkelbandbijvoorbeeld hebben we veel nieuwe inzichten gehad. We hebben namelijk geprobeerd een product te maken dat <b>geen bijsluiter</b> nodig heeft. Dat was een echte challenge, zeker omdat iedere persoon zaken anders ervaart en dus ook anders gaat handelen. Om die reden hebben de gebruikerstesten ons dan ook zeer hard geholpen. Zo duiden ze ons steeds op zaken die wij als ontwerpers van het product zeer logisch vonden, maar voor de potentiele gebruiker juist als zeer verwarrend overkwam. Deze hebben we dan steeds zo goed mogelijk proberen op te lossen waarbij we rekening probeerden te houden met de complexiteit van de enkelband. We konden deze bij wijze van spreken helemaal vol zetten met tekst over hoe je het product moet gebruiken. Dan heb je idd geen bijsluiter nodig, maar staat deze geschreven op de enkelband wat zou zorgen voor een zeer slordig product. Dit hebben we proberen te vermijden door kleine ontwerphints te geven van waar zaken zich moeten bevinden en zoveel mogelijk proberen in te spelen op de ondoordachte handelingen van de eindgebruiker.<br><br>
+
+
 ## Bronnen
 Victoris. (z.d.). Lower impact running. Geraadpleegd op 04 oktober 2023 van  
 https://www.victoris.be/projects/lower-impact-running/  <br>
